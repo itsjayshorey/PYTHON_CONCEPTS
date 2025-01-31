@@ -1,0 +1,1153 @@
+,Unnamed: 0,State/UT,District,Temperature (°C),Condition,Humidity (%),Wind Speed (km/h),Last Updated
+0,0,Andhra Pradesh,Anantapur,22.1,Clear,64,14.4,2025-01-23 23:00:00
+1,1,Andhra Pradesh,Chittoor,18.5,Clear,93,4.0,2025-01-23 23:00:00
+2,2,Andhra Pradesh,East Godavari,19.4,Clear,86,3.6,2025-01-23 23:00:00
+3,3,Andhra Pradesh,Guntur,22.3,Mist,88,5.4,2025-01-23 23:00:00
+4,4,Andhra Pradesh,Krishna,22.3,Mist,88,10.8,2025-01-23 23:00:00
+5,5,Andhra Pradesh,Kurnool,21.8,Clear,66,16.9,2025-01-23 23:00:00
+6,6,Andhra Pradesh,Prakasam,27.0,Sunny,61,3.6,2025-01-23 11:30:00
+7,7,Andhra Pradesh,Srikakulam,20.8,Clear,78,3.6,2025-01-23 23:00:00
+8,8,Andhra Pradesh,Visakhapatnam,23.3,Clear,67,3.6,2025-01-23 23:00:00
+9,9,Andhra Pradesh,Vizianagaram,19.9,Clear,77,3.6,2025-01-23 23:00:00
+10,10,Arunachal Pradesh,Tawang,0.2,Partly Cloudy,87,4.0,2025-01-23 23:00:00
+11,11,Arunachal Pradesh,West Kameng,24.4,Clear,37,7.9,2025-01-24 00:30:00
+12,12,Arunachal Pradesh,East Kameng,24.4,Clear,37,7.9,2025-01-24 00:30:00
+13,13,Arunachal Pradesh,Papum Pare,38.2,Sunny,23,6.5,2025-01-23 17:30:00
+14,14,Arunachal Pradesh,Kurung Kumey,-21.5,Light snow,93,22.0,2025-01-23 22:30:00
+15,15,Arunachal Pradesh,Kra Daadi,30.5,Clear,29,16.9,2025-01-23 20:30:00
+16,16,Arunachal Pradesh,Lower Subansiri,-7.8,Sunny,37,11.5,2025-01-23 12:30:00
+17,17,Arunachal Pradesh,Upper Subansiri,17.7,Mist,94,3.6,2025-01-23 23:00:00
+18,18,Arunachal Pradesh,West Siang,18.3,Clear,34,6.8,2025-01-23 23:00:00
+19,19,Arunachal Pradesh,East Siang,18.3,Clear,34,6.8,2025-01-23 23:00:00
+20,20,Assam,Baksa,12.8,Partly Cloudy,74,4.0,2025-01-23 23:00:00
+21,21,Assam,Barpeta,15.4,Clear,73,6.5,2025-01-23 23:00:00
+22,22,Assam,Biswanath,20.7,Clear,74,9.4,2025-01-23 23:00:00
+23,23,Assam,Bongaigaon,16.6,Clear,75,3.6,2025-01-23 23:00:00
+24,24,Assam,Cachar,27.0,Sunny,61,3.6,2025-01-23 11:30:00
+25,25,Assam,Charaideo,27.0,Sunny,61,3.6,2025-01-23 11:30:00
+26,26,Assam,Chirang,15.2,Patchy rain nearby,85,3.6,2025-01-23 23:30:00
+27,27,Assam,Darrang,18.9,Clear,64,3.6,2025-01-23 23:00:00
+28,28,Assam,Dhemaji,18.2,Mist,88,5.4,2025-01-23 23:00:00
+29,29,Assam,Dhubri,17.3,Clear,60,5.8,2025-01-23 23:00:00
+30,30,Bihar,Araria,15.8,Clear,52,5.4,2025-01-23 23:00:00
+31,31,Bihar,Arwal,15.2,Mist,94,6.8,2025-01-23 23:00:00
+32,32,Bihar,Aurangabad,21.3,Mist,73,12.2,2025-01-23 23:00:00
+33,33,Bihar,Banka,15.7,Clear,52,3.6,2025-01-23 23:00:00
+34,34,Bihar,Begusarai,14.5,Clear,57,5.0,2025-01-23 23:00:00
+35,35,Bihar,Bhagalpur,15.3,Clear,55,3.6,2025-01-23 23:00:00
+36,36,Bihar,Bhojpur,14.2,Clear,47,9.4,2025-01-23 23:00:00
+37,37,Bihar,Buxar,15.3,Clear,62,7.2,2025-01-23 23:00:00
+38,38,Bihar,Darbhanga,14.8,Clear,54,7.6,2025-01-23 23:00:00
+39,39,Bihar,East Champaran,19.4,Clear,86,3.6,2025-01-23 23:00:00
+40,40,Chhattisgarh,Balod,18.4,Clear,28,4.7,2025-01-23 23:00:00
+41,41,Chhattisgarh,Baloda Bazar,19.7,Clear,30,4.0,2025-01-23 23:00:00
+42,42,Chhattisgarh,Balrampur,15.7,Clear,56,13.0,2025-01-23 23:00:00
+43,43,Chhattisgarh,Bastar,18.2,Clear,32,3.6,2025-01-23 23:00:00
+44,44,Chhattisgarh,Bemetara,19.7,Clear,30,4.0,2025-01-23 23:00:00
+45,45,Chhattisgarh,Bijapur,24.4,Clear,29,14.4,2025-01-23 23:00:00
+46,46,Chhattisgarh,Bilaspur,18.1,Clear,34,5.4,2025-01-23 23:00:00
+47,47,Chhattisgarh,Dantewada,27.0,Sunny,61,3.6,2025-01-23 11:30:00
+48,48,Chhattisgarh,Dhamtari,18.4,Clear,28,4.7,2025-01-23 23:00:00
+49,49,Chhattisgarh,Durg,20.6,Clear,28,4.3,2025-01-23 23:00:00
+50,50,Goa,North Goa,24.6,Clear,66,13.3,2025-01-23 23:00:00
+51,51,Goa,South Goa,24.6,Clear,66,13.3,2025-01-23 23:00:00
+52,52,Gujarat,Ahmedabad,21.4,Overcast,40,16.6,2025-01-23 23:00:00
+53,53,Gujarat,Amreli,18.8,Clear,37,18.7,2025-01-23 23:00:00
+54,54,Gujarat,Anand,18.1,Clear,33,14.0,2025-01-23 23:00:00
+55,55,Gujarat,Aravalli,27.0,Sunny,61,3.6,2025-01-23 11:30:00
+56,56,Gujarat,Banaskantha,15.5,Clear,36,13.7,2025-01-23 23:00:00
+57,57,Gujarat,Bharuch,20.2,Clear,35,13.0,2025-01-23 23:00:00
+58,58,Gujarat,Bhavnagar,20.2,Clear,43,21.2,2025-01-23 23:00:00
+59,59,Gujarat,Botad,19.6,Clear,34,22.3,2025-01-23 23:00:00
+60,60,Gujarat,Chhota Udaipur,14.7,Clear,37,8.6,2025-01-23 23:00:00
+61,61,Gujarat,Dahod,18.9,Clear,36,10.8,2025-01-23 23:00:00
+62,62,Haryana,Ambala,12.3,Clear,42,12.6,2025-01-23 23:00:00
+63,63,Haryana,Bhiwani,14.1,Clear,37,8.3,2025-01-23 23:00:00
+64,64,Haryana,Charkhi Dadri,14.1,Clear,37,8.3,2025-01-23 23:00:00
+65,65,Haryana,Faridabad,15.0,Mist,72,9.7,2025-01-23 23:00:00
+66,66,Haryana,Fatehabad,13.4,Clear,40,12.2,2025-01-23 23:00:00
+67,67,Haryana,Gurugram,27.0,Sunny,61,3.6,2025-01-23 11:30:00
+68,68,Haryana,Hisar,14.4,Clear,36,12.6,2025-01-23 23:00:00
+69,69,Haryana,Jhajjar,15.0,Mist,72,10.1,2025-01-23 23:00:00
+70,70,Haryana,Jind,13.0,Clear,38,11.9,2025-01-23 23:00:00
+71,71,Haryana,Kaithal,11.9,Clear,41,9.4,2025-01-23 23:00:00
+72,72,Himachal Pradesh,Bilaspur,18.1,Clear,34,5.4,2025-01-23 23:00:00
+73,73,Himachal Pradesh,Chamba,3.1,Clear,38,14.0,2025-01-23 23:00:00
+74,74,Himachal Pradesh,Hamirpur,17.2,Clear,64,10.4,2025-01-23 23:00:00
+75,75,Himachal Pradesh,Kangra,7.6,Clear,42,8.3,2025-01-23 23:00:00
+76,76,Himachal Pradesh,Kinnaur,27.0,Sunny,61,3.6,2025-01-23 11:30:00
+77,77,Himachal Pradesh,Kullu,26.6,Clear,13,15.5,2025-01-23 19:30:00
+78,78,Himachal Pradesh,Lahaul and Spiti,-27.3,Mist,96,4.0,2025-01-23 23:00:00
+79,79,Himachal Pradesh,Mandi,7.5,Clear,48,8.3,2025-01-23 23:00:00
+80,80,Himachal Pradesh,Shimla,8.8,Clear,56,7.6,2025-01-23 23:00:00
+81,81,Himachal Pradesh,Sirmaur,17.4,Clear,58,6.8,2025-01-23 23:00:00
+82,82,Jharkhand,Bokaro,18.0,Clear,42,4.3,2025-01-23 23:00:00
+83,83,Jharkhand,Chatra,15.4,Clear,54,3.6,2025-01-23 23:00:00
+84,84,Jharkhand,Deoghar,17.4,Clear,46,3.6,2025-01-23 23:00:00
+85,85,Jharkhand,Dhanbad,19.0,Clear,40,6.1,2025-01-23 23:00:00
+86,86,Jharkhand,Dumka,17.2,Clear,44,3.6,2025-01-23 23:00:00
+87,87,Jharkhand,East Singhbhum,19.4,Clear,86,3.6,2025-01-23 23:00:00
+88,88,Jharkhand,Garhwa,17.2,Clear,54,5.8,2025-01-23 23:00:00
+89,89,Jharkhand,Giridih,18.0,Clear,43,4.0,2025-01-23 23:00:00
+90,90,Jharkhand,Godda,15.7,Clear,52,3.6,2025-01-23 23:00:00
+91,91,Jharkhand,Gumla,16.3,Clear,48,6.5,2025-01-23 23:15:00
+92,92,Karnataka,Bagalkot,23.4,Clear,35,13.3,2025-01-23 23:00:00
+93,93,Karnataka,Ballari,22.4,Clear,59,17.3,2025-01-23 23:00:00
+94,94,Karnataka,Belagavi,22.3,Clear,47,9.0,2025-01-23 23:00:00
+95,95,Karnataka,Bengaluru Rural,20.2,Mist,78,14.0,2025-01-23 23:00:00
+96,96,Karnataka,Bengaluru Urban,20.2,Mist,78,14.0,2025-01-23 23:00:00
+97,97,Karnataka,Bidar,21.1,Clear,48,13.0,2025-01-23 23:00:00
+98,98,Karnataka,Chamarajanagar,27.0,Sunny,61,3.6,2025-01-23 11:30:00
+99,99,Karnataka,Chikkaballapur,27.0,Sunny,61,3.6,2025-01-23 11:30:00
+100,100,Karnataka,Chikkamagaluru,18.1,Clear,56,3.6,2025-01-23 23:00:00
+101,101,Karnataka,Chitradurga,22.3,Clear,47,13.7,2025-01-23 23:00:00
+102,102,Kerala,Alappuzha,26.3,Clear,75,9.4,2025-01-23 23:00:00
+103,103,Kerala,Ernakulam,27.3,Mist,66,5.8,2025-01-23 23:00:00
+104,104,Kerala,Idukki,19.7,Partly Cloudy,92,4.0,2025-01-23 23:00:00
+105,105,Kerala,Kannur,24.0,Clear,86,6.5,2025-01-23 23:00:00
+106,106,Kerala,Kasaragod,26.2,Clear,74,5.8,2025-01-23 23:00:00
+107,107,Kerala,Kollam,26.4,Clear,70,11.2,2025-01-23 23:00:00
+108,108,Kerala,Kottayam,23.2,Clear,89,4.0,2025-01-23 23:00:00
+109,109,Kerala,Kozhikode,26.2,Mist,79,5.4,2025-01-23 23:00:00
+110,110,Kerala,Malappuram,26.2,Mist,79,3.6,2025-01-23 23:00:00
+111,111,Kerala,Palakkad,24.1,Mist,69,11.2,2025-01-23 23:00:00
+112,112,Madhya Pradesh,Alirajpur,19.6,Clear,36,5.8,2025-01-23 23:15:00
+113,113,Madhya Pradesh,Anuppur,17.2,Clear,46,4.3,2025-01-23 23:00:00
+114,114,Madhya Pradesh,Ashoknagar,16.6,Clear,63,15.5,2025-01-23 23:00:00
+115,115,Madhya Pradesh,Balaghat,19.6,Clear,34,5.8,2025-01-23 23:00:00
+116,116,Madhya Pradesh,Barwani,20.3,Clear,35,10.8,2025-01-23 23:15:00
+117,117,Madhya Pradesh,Betul,19.1,Clear,47,4.7,2025-01-23 23:00:00
+118,118,Madhya Pradesh,Bhind,16.8,Partly Cloudy,60,14.4,2025-01-23 23:00:00
+119,119,Madhya Pradesh,Bhopal,16.9,Clear,61,13.0,2025-01-23 23:00:00
+120,120,Madhya Pradesh,Burhanpur,20.8,Clear,42,9.4,2025-01-23 23:00:00
+121,121,Madhya Pradesh,Chhatarpur,17.7,Clear,61,10.4,2025-01-23 23:15:00
+122,122,Maharashtra,Ahmednagar,22.8,Clear,27,9.0,2025-01-23 23:00:00
+123,123,Maharashtra,Akola,23.1,Clear,30,6.5,2025-01-23 23:00:00
+124,124,Maharashtra,Amravati,22.8,Clear,30,8.3,2025-01-23 23:00:00
+125,125,Maharashtra,Aurangabad,21.3,Mist,73,12.2,2025-01-23 23:00:00
+126,126,Maharashtra,Beed,13.2,Clear,44,3.6,2025-01-23 21:00:00
+127,127,Maharashtra,Bhandara,21.7,Clear,30,4.0,2025-01-23 23:00:00
+128,128,Maharashtra,Buldhana,27.0,Sunny,61,3.6,2025-01-23 11:30:00
+129,129,Maharashtra,Chandrapur,22.3,Clear,38,3.6,2025-01-23 23:00:00
+130,130,Maharashtra,Dhule,22.8,Clear,36,13.3,2025-01-23 23:00:00
+131,131,Maharashtra,Gadchiroli,27.0,Sunny,61,3.6,2025-01-23 11:30:00
+132,132,Manipur,Bishnupur,19.0,Mist,88,5.4,2025-01-23 23:15:00
+133,133,Manipur,Churachandpur,8.5,Clear,71,3.6,2025-01-23 23:00:00
+134,134,Manipur,Imphal East,7.5,Clear,65,5.0,2025-01-23 23:00:00
+135,135,Manipur,Imphal West,7.5,Clear,65,5.0,2025-01-23 23:00:00
+136,136,Manipur,Jiribam,27.0,Sunny,61,3.6,2025-01-23 11:45:00
+137,137,Manipur,Kakching,7.8,Clear,68,4.3,2025-01-23 23:00:00
+138,138,Manipur,Kamjong,27.0,Sunny,61,3.6,2025-01-23 11:30:00
+139,139,Manipur,Kangpokpi,7.5,Clear,65,5.0,2025-01-23 23:00:00
+140,140,Manipur,Noney,27.0,Sunny,61,3.6,2025-01-23 11:30:00
+141,141,Manipur,Pherzawl,27.0,Sunny,61,3.6,2025-01-23 11:30:00
+142,142,Meghalaya,East Garo Hills,23.6,Light rain shower,92,3.6,2025-01-24 01:45:00
+143,143,Meghalaya,East Khasi Hills,-0.7,Clear,80,18.4,2025-01-23 22:30:00
+144,144,Meghalaya,Jaintia Hills,20.2,Partly cloudy,78,10.8,2025-01-23 23:00:00
+145,145,Meghalaya,Ri Bhoi,16.4,Clear,26,8.3,2025-01-23 22:30:00
+146,146,Meghalaya,South Garo Hills,29.2,Mist,23,16.2,2025-01-23 18:30:00
+147,147,Meghalaya,South Khasi Hills,-0.7,Clear,80,18.4,2025-01-23 22:30:00
+148,148,Meghalaya,West Garo Hills,9.7,Clear,21,6.5,2025-01-23 22:30:00
+149,149,Meghalaya,West Khasi Hills,-0.7,Clear,80,18.4,2025-01-23 22:30:00
+150,150,Mizoram,Aizawl,13.2,Clear,61,4.0,2025-01-23 23:15:00
+151,151,Mizoram,Champhai,27.0,Sunny,61,3.6,2025-01-23 11:30:00
+152,152,Mizoram,Hnahthial,9.0,Clear,34,6.5,2025-01-24 00:00:00
+153,153,Mizoram,Kolasib,27.0,Sunny,61,3.6,2025-01-23 11:30:00
+154,154,Mizoram,Lawngtlai,11.7,Clear,48,4.7,2025-01-23 23:00:00
+155,155,Mizoram,Lunglei,11.5,Clear,52,5.8,2025-01-23 23:00:00
+156,156,Mizoram,Mamit,8.9,Clear,61,4.0,2025-01-23 23:15:00
+157,157,Mizoram,Saitual,8.9,Clear,61,4.0,2025-01-23 23:00:00
+158,158,Mizoram,Serchhip,11.9,Clear,52,4.0,2025-01-23 23:00:00
+159,159,Nagaland,Dimapur,12.7,Clear,63,4.3,2025-01-23 23:00:00
+160,160,Nagaland,Kiphire,27.0,Sunny,61,3.6,2025-01-23 11:30:00
+161,161,Nagaland,Kohima,8.7,Clear,52,5.0,2025-01-23 23:00:00
+162,162,Nagaland,Longleng,27.0,Sunny,61,3.6,2025-01-23 11:30:00
+163,163,Nagaland,Mokokchung,12.8,Clear,81,5.8,2025-01-23 23:15:00
+164,164,Nagaland,Mon,16.1,Patchy rain nearby,78,3.6,2025-01-23 23:00:00
+165,165,Nagaland,Peren,6.2,Partly cloudy,75,35.3,2025-01-23 18:45:00
+166,166,Nagaland,Phek,7.0,Clear,93,3.6,2025-01-23 23:15:00
+167,167,Nagaland,Tuensang,6.8,Mist,97,3.6,2025-01-23 23:00:00
+168,168,Nagaland,Zunheboto,9.2,Clear,88,4.7,2025-01-23 23:00:00
+169,169,Odisha,Angul,18.7,Clear,54,4.3,2025-01-23 23:00:00
+170,170,Odisha,Balangir,18.8,Clear,33,5.0,2025-01-23 23:15:00
+171,171,Odisha,Bargarh,21.6,Clear,28,3.6,2025-01-23 23:00:00
+172,172,Odisha,Bhadrak,20.4,Clear,88,5.8,2025-01-23 23:00:00
+173,173,Odisha,Boudh,27.0,Sunny,61,3.6,2025-01-23 11:45:00
+174,174,Odisha,Cuttack,21.3,Mist,94,6.8,2025-01-23 23:00:00
+175,175,Odisha,Deogarh,16.9,Clear,30,3.6,2025-01-23 23:15:00
+176,176,Odisha,Dhenkanal,21.3,Mist,94,6.8,2025-01-23 23:00:00
+177,177,Odisha,Gajapati,27.0,Sunny,61,3.6,2025-01-23 11:45:00
+178,178,Odisha,Ganjam,19.5,Clear,82,4.3,2025-01-23 23:00:00
+179,179,Punjab,Amritsar,10.3,Mist,82,9.0,2025-01-23 23:00:00
+180,180,Punjab,Barnala,10.9,Clear,37,8.6,2025-01-23 23:15:00
+181,181,Punjab,Bathinda,27.0,Sunny,61,3.6,2025-01-23 11:30:00
+182,182,Punjab,Faridkot,11.6,Clear,32,11.2,2025-01-23 23:15:00
+183,183,Punjab,Fatehgarh Sahib,11.0,Clear,42,8.6,2025-01-23 23:15:00
+184,184,Punjab,Fazilka,13.0,Clear,28,10.4,2025-01-23 23:15:00
+185,185,Punjab,Ferozepur,11.4,Clear,32,10.1,2025-01-23 23:00:00
+186,186,Punjab,Gurdaspur,10.4,Clear,41,3.6,2025-01-23 23:00:00
+187,187,Punjab,Hoshiarpur,11.1,Clear,43,5.0,2025-01-23 23:15:00
+188,188,Punjab,Jalandhar,10.6,Clear,38,6.8,2025-01-23 23:15:00
+189,189,Rajasthan,Ajmer,15.3,Clear,35,11.2,2025-01-23 23:15:00
+190,190,Rajasthan,Alwar,14.1,Clear,43,8.6,2025-01-23 23:15:00
+191,191,Rajasthan,Banswara,18.3,Clear,41,13.0,2025-01-23 23:15:00
+192,192,Rajasthan,Baran,17.0,Clear,67,11.9,2025-01-23 23:15:00
+193,193,Rajasthan,Barmer,15.9,Clear,29,15.8,2025-01-23 23:15:00
+194,194,Rajasthan,Bhilwara,14.2,Clear,33,14.0,2025-01-23 23:15:00
+195,195,Rajasthan,Bikaner,16.4,Clear,33,11.9,2025-01-23 23:00:00
+196,196,Rajasthan,Bundi,15.2,Clear,35,10.4,2025-01-23 23:15:00
+197,197,Rajasthan,Chittorgarh,27.0,Sunny,61,3.6,2025-01-23 11:45:00
+198,198,Rajasthan,Churu,17.1,Clear,32,12.2,2025-01-23 23:15:00
+199,199,Sikkim,East Sikkim,7.1,Clear,84,3.6,2025-01-23 23:15:00
+200,200,Sikkim,North Sikkim,7.1,Clear,84,3.6,2025-01-23 23:15:00
+201,201,Sikkim,South Sikkim,7.1,Clear,84,3.6,2025-01-23 23:15:00
+202,202,Sikkim,West Sikkim,7.1,Clear,84,3.6,2025-01-23 23:15:00
+203,203,Tamil Nadu,Ariyalur,24.3,Mist,89,10.1,2025-01-23 23:15:00
+204,204,Tamil Nadu,Chengalpattu,25.2,Mist,79,6.8,2025-01-23 23:15:00
+205,205,Tamil Nadu,Chennai,25.2,Mist,79,12.6,2025-01-23 23:15:00
+206,206,Tamil Nadu,Coimbatore,24.4,Mist,69,8.6,2025-01-23 23:15:00
+207,207,Tamil Nadu,Cuddalore,24.3,Partly Cloudy,74,15.1,2025-01-23 23:15:00
+208,208,Tamil Nadu,Dharmapuri,18.7,Clear,83,7.2,2025-01-23 23:15:00
+209,209,Tamil Nadu,Dindigul,24.2,Mist,89,5.8,2025-01-23 23:15:00
+210,210,Tamil Nadu,Erode,22.4,Clear,75,11.5,2025-01-23 23:15:00
+211,211,Tamil Nadu,Kallakurichi,27.0,Sunny,61,3.6,2025-01-23 11:45:00
+212,212,Tamil Nadu,Kanchipuram,25.2,Mist,79,7.6,2025-01-23 23:15:00
+213,213,Telangana,Adilabad,22.0,Clear,33,4.7,2025-01-23 23:15:00
+214,214,Telangana,Hyderabad,20.4,Mist,88,11.9,2025-01-23 23:00:00
+215,215,Telangana,Jagtial,21.6,Clear,43,9.0,2025-01-23 23:15:00
+216,216,Telangana,Jangaon,23.4,Mist,73,11.2,2025-01-23 23:15:00
+217,217,Telangana,Jayashankar Bhupalapally,27.0,Sunny,61,3.6,2025-01-23 11:45:00
+218,218,Telangana,Jogulamba Gadwal,22.5,Clear,58,12.6,2025-01-23 23:15:00
+219,219,Telangana,Kamareddy,27.0,Sunny,61,3.6,2025-01-23 11:45:00
+220,220,Telangana,Karimnagar,21.6,Clear,46,7.2,2025-01-23 23:15:00
+221,221,Telangana,Khammam,19.0,Clear,85,10.8,2025-01-23 23:15:00
+222,222,Telangana,Komaram Bheem Asifabad,22.2,Clear,33,6.5,2025-01-23 23:15:00
+223,223,Tripura,Dhalai,13.2,Clear,69,3.6,2025-01-23 23:15:00
+224,224,Tripura,Khowai,14.3,Clear,64,3.6,2025-01-23 23:30:00
+225,225,Tripura,North Tripura,15.4,Clear,54,5.0,2025-01-23 23:15:00
+226,226,Tripura,Sepahijala,27.0,Sunny,61,3.6,2025-01-23 11:45:00
+227,227,Tripura,South Tripura,15.4,Clear,54,5.0,2025-01-23 23:15:00
+228,228,Tripura,Unakoti,27.0,Sunny,61,3.6,2025-01-23 11:45:00
+229,229,Tripura,West Tripura,15.4,Clear,54,5.0,2025-01-23 23:15:00
+230,230,Uttar Pradesh,Agra,15.0,Clear,56,11.9,2025-01-23 23:15:00
+231,231,Uttar Pradesh,Aligarh,15.8,Clear,43,11.2,2025-01-23 23:15:00
+232,232,Uttar Pradesh,Allahabad,17.3,Partly Cloudy,51,10.8,2025-01-23 23:15:00
+233,233,Uttar Pradesh,Ambedkar Nagar,16.6,Clear,52,6.1,2025-01-23 23:15:00
+234,234,Uttar Pradesh,Amethi,16.0,Clear,54,13.3,2025-01-23 23:15:00
+235,235,Uttar Pradesh,Amroha,13.9,Clear,38,14.0,2025-01-23 23:15:00
+236,236,Uttar Pradesh,Auraiya,16.0,Clear,65,12.2,2025-01-23 23:15:00
+237,237,Uttar Pradesh,Azamgarh,15.5,Clear,54,7.9,2025-01-23 23:15:00
+238,238,Uttar Pradesh,Baghpat,15.3,Mist,72,11.2,2025-01-23 23:15:00
+239,239,Uttar Pradesh,Bahraich,16.0,Clear,60,13.3,2025-01-23 23:15:00
+240,240,Uttarakhand,Almora,6.0,Clear,50,3.6,2025-01-23 23:15:00
+241,241,Uttarakhand,Bageshwar,6.0,Clear,50,3.6,2025-01-23 23:15:00
+242,242,Uttarakhand,Chamoli,-8.0,Clear,58,12.6,2025-01-23 23:15:00
+243,243,Uttarakhand,Champawat,11.9,Clear,50,9.0,2025-01-23 23:15:00
+244,244,Uttarakhand,Dehradun,10.9,Clear,44,7.2,2025-01-23 23:15:00
+245,245,Uttarakhand,Haridwar,12.1,Clear,42,5.8,2025-01-23 23:15:00
+246,246,Uttarakhand,Nainital,27.0,Sunny,61,3.6,2025-01-23 11:45:00
+247,247,Uttarakhand,Pauri Garhwal,12.9,Clear,39,10.4,2025-01-23 23:15:00
+248,248,Uttarakhand,Pithoragarh,6.9,Clear,61,5.8,2025-01-23 23:15:00
+249,249,Uttarakhand,Rudraprayag,6.8,Clear,52,3.6,2025-01-23 23:15:00
+250,250,West Bengal,Alipurduar,27.0,Sunny,61,3.6,2025-01-23 11:45:00
+251,251,West Bengal,Bankura,19.1,Clear,50,5.4,2025-01-23 23:15:00
+252,252,West Bengal,Birbhum,27.0,Sunny,61,3.6,2025-01-23 11:45:00
+253,253,West Bengal,Burdwan,19.0,Clear,52,6.8,2025-01-23 23:15:00
+254,254,West Bengal,Cooch Behar,17.8,Clear,64,3.6,2025-01-23 23:15:00
+255,255,West Bengal,Dakshin Dinajpur,17.7,Clear,49,6.8,2025-01-23 23:45:00
+256,256,West Bengal,Hooghly,19.0,Mist,88,7.6,2025-01-23 23:15:00
+257,257,West Bengal,Howrah,19.0,Mist,88,5.8,2025-01-23 23:15:00
+258,258,West Bengal,Jalpaiguri,17.3,Clear,68,3.6,2025-01-23 23:15:00
+259,259,West Bengal,Jhargram,19.4,Clear,75,8.3,2025-01-23 23:15:00
+260,260,Andaman and Nicobar Islands,Nicobar,27.2,Light rain shower,80,27.7,2025-01-23 23:15:00
+261,261,Andaman and Nicobar Islands,North and Middle Andaman,27.2,Light rain shower,80,27.7,2025-01-23 23:15:00
+262,262,Andaman and Nicobar Islands,South Andaman,27.2,Light rain shower,80,27.7,2025-01-23 23:15:00
+263,263,Chandigarh,Chandigarh,12.1,Clear,40,9.0,2025-01-23 23:15:00
+264,264,Dadra and Nagar Haveli and Daman and Diu,Daman,21.2,Clear,42,11.9,2025-01-23 23:15:00
+265,265,Dadra and Nagar Haveli and Daman and Diu,Diu,18.8,Clear,35,17.6,2025-01-23 23:15:00
+266,266,Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,21.2,Clear,42,11.9,2025-01-23 23:15:00
+267,267,Lakshadweep,Aminidivi,27.0,Sunny,61,3.6,2025-01-23 11:45:00
+268,268,Lakshadweep,Androth,27.0,Sunny,61,3.6,2025-01-23 11:45:00
+269,269,Lakshadweep,Bithra,27.0,Sunny,61,3.6,2025-01-23 11:45:00
+270,270,Lakshadweep,Kalapeni,27.0,Sunny,61,3.6,2025-01-23 11:45:00
+271,271,Lakshadweep,Kavaratti,27.4,Clear,72,10.1,2025-01-23 23:15:00
+272,272,Lakshadweep,Minicoy,27.0,Sunny,61,3.6,2025-01-23 11:45:00
+273,273,Lakshadweep,Suheli,27.0,Sunny,61,3.6,2025-01-23 11:45:00
+274,274,Delhi,Central Delhi,15.3,Mist,72,9.4,2025-01-23 23:15:00
+275,275,Delhi,East Delhi,15.3,Mist,72,9.4,2025-01-23 23:15:00
+276,276,Delhi,New Delhi,15.3,Mist,72,9.4,2025-01-23 23:15:00
+277,277,Delhi,North Delhi,15.3,Mist,72,9.4,2025-01-23 23:15:00
+278,278,Delhi,North East Delhi,15.3,Mist,72,9.4,2025-01-23 23:15:00
+279,279,Delhi,North West Delhi,15.3,Mist,72,9.4,2025-01-23 23:15:00
+280,280,Delhi,Shahdara,15.3,Mist,72,9.7,2025-01-23 23:15:00
+281,281,Delhi,South Delhi,15.3,Mist,72,9.4,2025-01-23 23:15:00
+282,282,Delhi,South East Delhi,15.3,Mist,72,9.4,2025-01-23 23:15:00
+283,283,Delhi,South West Delhi,15.3,Mist,72,9.4,2025-01-23 23:15:00
+284,284,Puducherry,Karaikal,23.9,Patchy rain nearby,77,13.7,2025-01-23 23:15:00
+285,285,Puducherry,Mahe,23.6,Clear,89,7.2,2025-01-23 23:15:00
+286,286,Puducherry,Puducherry,23.5,Partly Cloudy,76,13.3,2025-01-23 23:15:00
+287,287,Puducherry,Yanam,19.4,Clear,86,3.6,2025-01-23 23:15:00
+288,288,Andhra Pradesh,Anantapur,24.1,Sunny,42,20.9,2025-01-22 00:00:00
+289,289,Andhra Pradesh,Chittoor,21.2,Sunny,73,12.6,2025-01-22 00:00:00
+290,290,Andhra Pradesh,East Godavari,23.2,Sunny,65,14.4,2025-01-22 00:00:00
+291,291,Andhra Pradesh,Guntur,22.4,Sunny,70,18.7,2025-01-22 00:00:00
+292,292,Andhra Pradesh,Krishna,22.7,Sunny,74,14.8,2025-01-22 00:00:00
+293,293,Andhra Pradesh,Kurnool,24.8,Sunny,39,21.6,2025-01-22 00:00:00
+294,294,Andhra Pradesh,Prakasam,24.7,Sunny,72,17.6,2025-01-22 00:00:00
+295,295,Andhra Pradesh,Srikakulam,22.5,Sunny,63,15.8,2025-01-22 00:00:00
+296,296,Andhra Pradesh,Visakhapatnam,24.1,Sunny,59,13.7,2025-01-22 00:00:00
+297,297,Andhra Pradesh,Vizianagaram,22.4,Sunny,59,14.8,2025-01-22 00:00:00
+298,298,Arunachal Pradesh,Tawang,-0.5,Sunny,43,16.9,2025-01-22 00:00:00
+299,299,Arunachal Pradesh,West Kameng,26.3,Sunny,35,11.2,2025-01-22 00:00:00
+300,300,Arunachal Pradesh,East Kameng,26.3,Sunny,35,11.2,2025-01-22 00:00:00
+301,301,Arunachal Pradesh,Papum Pare,28.7,Sunny,25,7.9,2025-01-22 00:00:00
+302,302,Arunachal Pradesh,Kurung Kumey,-7.1,Light snow,78,41.8,2025-01-22 00:00:00
+303,303,Arunachal Pradesh,Kra Daadi,27.3,Partly cloudy,52,29.9,2025-01-22 00:00:00
+304,304,Arunachal Pradesh,Lower Subansiri,-12.7,Sunny,56,11.9,2025-01-22 00:00:00
+305,305,Arunachal Pradesh,Upper Subansiri,20.1,Sunny,77,12.2,2025-01-22 00:00:00
+306,306,Arunachal Pradesh,West Siang,21.8,Sunny,32,8.3,2025-01-22 00:00:00
+307,307,Arunachal Pradesh,East Siang,21.8,Sunny,32,8.3,2025-01-22 00:00:00
+308,308,Assam,Baksa,20.2,Sunny,48,9.7,2025-01-22 00:00:00
+309,309,Assam,Barpeta,20.1,Sunny,52,5.8,2025-01-22 00:00:00
+310,310,Assam,Biswanath,23.4,Sunny,41,10.8,2025-01-22 00:00:00
+311,311,Assam,Bongaigaon,20.0,Sunny,47,8.3,2025-01-22 00:00:00
+312,312,Assam,Cachar,24.7,Sunny,72,17.6,2025-01-22 00:00:00
+313,313,Assam,Charaideo,24.7,Sunny,72,17.6,2025-01-22 00:00:00
+314,314,Assam,Chirang,5.1,Sunny,63,10.8,2025-01-22 00:00:00
+315,315,Assam,Darrang,19.7,Sunny,49,6.1,2025-01-22 00:00:00
+316,316,Assam,Dhemaji,18.8,Sunny,46,7.6,2025-01-22 00:00:00
+317,317,Assam,Dhubri,20.3,Sunny,50,7.2,2025-01-22 00:00:00
+318,318,Bihar,Araria,19.7,Sunny,46,10.1,2025-01-22 00:00:00
+319,319,Bihar,Arwal,18.7,Sunny,46,16.2,2025-01-22 00:00:00
+320,320,Bihar,Aurangabad,23.5,Sunny,25,10.8,2025-01-22 00:00:00
+321,321,Bihar,Banka,18.9,Sunny,49,16.2,2025-01-22 00:00:00
+322,322,Bihar,Begusarai,18.3,Sunny,50,15.1,2025-01-22 00:00:00
+323,323,Bihar,Bhagalpur,18.9,Sunny,49,16.2,2025-01-22 00:00:00
+324,324,Bihar,Bhojpur,18.5,Sunny,37,15.8,2025-01-22 00:00:00
+325,325,Bihar,Buxar,18.6,Sunny,45,15.1,2025-01-22 00:00:00
+326,326,Bihar,Darbhanga,18.7,Sunny,48,15.5,2025-01-22 00:00:00
+327,327,Bihar,East Champaran,23.2,Sunny,65,14.4,2025-01-22 00:00:00
+328,328,Chhattisgarh,Balod,22.9,Sunny,24,11.9,2025-01-22 00:00:00
+329,329,Chhattisgarh,Baloda Bazar,23.5,Sunny,26,11.2,2025-01-22 00:00:00
+330,330,Chhattisgarh,Balrampur,18.4,Sunny,42,16.9,2025-01-22 00:00:00
+331,331,Chhattisgarh,Bastar,22.2,Sunny,23,5.8,2025-01-22 00:00:00
+332,332,Chhattisgarh,Bemetara,23.5,Sunny,26,11.2,2025-01-22 00:00:00
+333,333,Chhattisgarh,Bijapur,25.4,Sunny,26,16.2,2025-01-22 00:00:00
+334,334,Chhattisgarh,Bilaspur,22.8,Sunny,30,10.8,2025-01-22 00:00:00
+335,335,Chhattisgarh,Dantewada,24.7,Sunny,72,17.6,2025-01-22 00:00:00
+336,336,Chhattisgarh,Dhamtari,22.9,Sunny,24,11.9,2025-01-22 00:00:00
+337,337,Chhattisgarh,Durg,23.7,Sunny,21,8.6,2025-01-22 00:00:00
+338,338,Goa,North Goa,25.3,Sunny,43,24.5,2025-01-22 00:00:00
+339,339,Goa,South Goa,25.3,Sunny,43,24.5,2025-01-22 00:00:00
+340,340,Gujarat,Ahmedabad,22.4,Sunny,30,18.4,2025-01-22 00:00:00
+341,341,Gujarat,Amreli,22.6,Sunny,33,19.4,2025-01-22 00:00:00
+342,342,Gujarat,Anand,22.7,Sunny,30,18.4,2025-01-22 00:00:00
+343,343,Gujarat,Aravalli,24.7,Sunny,72,17.6,2025-01-22 00:00:00
+344,344,Gujarat,Banaskantha,20.3,Sunny,35,17.3,2025-01-22 00:00:00
+345,345,Gujarat,Bharuch,23.7,Sunny,31,15.5,2025-01-22 00:00:00
+346,346,Gujarat,Bhavnagar,23.2,Sunny,37,18.7,2025-01-22 00:00:00
+347,347,Gujarat,Botad,23.0,Sunny,31,19.8,2025-01-22 00:00:00
+348,348,Gujarat,Chhota Udaipur,19.0,Sunny,36,14.0,2025-01-22 00:00:00
+349,349,Gujarat,Dahod,22.6,Sunny,32,16.6,2025-01-22 00:00:00
+350,350,Haryana,Ambala,16.8,Sunny,37,12.6,2025-01-22 00:00:00
+351,351,Haryana,Bhiwani,17.6,Sunny,40,10.8,2025-01-22 00:00:00
+352,352,Haryana,Charkhi Dadri,17.6,Sunny,40,10.8,2025-01-22 00:00:00
+353,353,Haryana,Faridabad,19.2,Sunny,37,10.8,2025-01-22 00:00:00
+354,354,Haryana,Fatehabad,17.3,Sunny,35,11.2,2025-01-22 00:00:00
+355,355,Haryana,Gurugram,24.7,Sunny,72,17.6,2025-01-22 00:00:00
+356,356,Haryana,Hisar,17.6,Sunny,36,11.2,2025-01-22 00:00:00
+357,357,Haryana,Jhajjar,18.1,Sunny,39,9.0,2025-01-22 00:00:00
+358,358,Haryana,Jind,17.1,Sunny,39,11.2,2025-01-22 00:00:00
+359,359,Haryana,Kaithal,16.4,Sunny,40,11.2,2025-01-22 00:00:00
+360,360,Himachal Pradesh,Bilaspur,22.8,Sunny,30,10.8,2025-01-22 00:00:00
+361,361,Himachal Pradesh,Chamba,15.4,Sunny,33,12.2,2025-01-22 00:00:00
+362,362,Himachal Pradesh,Hamirpur,19.3,Sunny,44,10.8,2025-01-22 00:00:00
+363,363,Himachal Pradesh,Kangra,15.4,Sunny,33,12.2,2025-01-22 00:00:00
+364,364,Himachal Pradesh,Kinnaur,24.7,Sunny,72,17.6,2025-01-22 00:00:00
+365,365,Himachal Pradesh,Kullu,24.7,Sunny,14,19.8,2025-01-22 00:00:00
+366,366,Himachal Pradesh,Lahaul and Spiti,9.9,Sunny,38,11.2,2025-01-22 00:00:00
+367,367,Himachal Pradesh,Mandi,15.2,Sunny,35,10.8,2025-01-22 00:00:00
+368,368,Himachal Pradesh,Shimla,9.9,Sunny,38,11.2,2025-01-22 00:00:00
+369,369,Himachal Pradesh,Sirmaur,20.7,Sunny,44,10.4,2025-01-22 00:00:00
+370,370,Jharkhand,Bokaro,21.3,Sunny,30,14.0,2025-01-22 00:00:00
+371,371,Jharkhand,Chatra,19.8,Sunny,32,18.4,2025-01-22 00:00:00
+372,372,Jharkhand,Deoghar,20.7,Sunny,38,17.6,2025-01-22 00:00:00
+373,373,Jharkhand,Dhanbad,22.5,Sunny,30,12.6,2025-01-22 00:00:00
+374,374,Jharkhand,Dumka,20.8,Sunny,39,17.3,2025-01-22 00:00:00
+375,375,Jharkhand,East Singhbhum,23.2,Sunny,65,14.4,2025-01-22 00:00:00
+376,376,Jharkhand,Garhwa,20.1,Sunny,41,12.6,2025-01-22 00:00:00
+377,377,Jharkhand,Giridih,21.0,Sunny,34,16.9,2025-01-22 00:00:00
+378,378,Jharkhand,Godda,18.9,Sunny,49,16.2,2025-01-22 00:00:00
+379,379,Jharkhand,Gumla,21.4,Sunny,30,13.7,2025-01-22 00:00:00
+380,380,Karnataka,Bagalkot,24.8,Sunny,28,15.1,2025-01-22 00:00:00
+381,381,Karnataka,Ballari,24.0,Sunny,37,19.8,2025-01-22 00:00:00
+382,382,Karnataka,Belagavi,23.3,Sunny,25,13.3,2025-01-22 00:00:00
+383,383,Karnataka,Bengaluru Rural,21.9,Sunny,47,18.4,2025-01-22 00:00:00
+384,384,Karnataka,Bengaluru Urban,21.9,Sunny,47,18.4,2025-01-22 00:00:00
+385,385,Karnataka,Bidar,24.2,Sunny,25,11.5,2025-01-22 00:00:00
+386,386,Karnataka,Chamarajanagar,24.7,Sunny,72,17.6,2025-01-22 00:00:00
+387,387,Karnataka,Chikkaballapur,24.7,Sunny,72,17.6,2025-01-22 00:00:00
+388,388,Karnataka,Chikkamagaluru,21.2,Sunny,32,12.2,2025-01-22 00:00:00
+389,389,Karnataka,Chitradurga,23.4,Sunny,33,19.8,2025-01-22 00:00:00
+390,390,Kerala,Alappuzha,26.4,Partly cloudy,71,19.8,2025-01-22 00:00:00
+391,391,Kerala,Ernakulam,26.3,Sunny,74,19.8,2025-01-22 00:00:00
+392,392,Kerala,Idukki,21.8,Sunny,67,10.4,2025-01-22 00:00:00
+393,393,Kerala,Kannur,25.7,Sunny,64,18.4,2025-01-22 00:00:00
+394,394,Kerala,Kasaragod,25.2,Sunny,67,17.6,2025-01-22 00:00:00
+395,395,Kerala,Kollam,26.4,Partly cloudy,65,15.5,2025-01-22 00:00:00
+396,396,Kerala,Kottayam,26.3,Partly cloudy,68,15.1,2025-01-22 00:00:00
+397,397,Kerala,Kozhikode,26.0,Sunny,72,18.4,2025-01-22 00:00:00
+398,398,Kerala,Malappuram,25.9,Sunny,60,10.8,2025-01-22 00:00:00
+399,399,Kerala,Palakkad,24.9,Sunny,54,19.8,2025-01-22 00:00:00
+400,400,Madhya Pradesh,Alirajpur,22.6,Sunny,32,16.6,2025-01-22 00:00:00
+401,401,Madhya Pradesh,Anuppur,20.5,Sunny,42,14.8,2025-01-22 00:00:00
+402,402,Madhya Pradesh,Ashoknagar,20.9,Sunny,46,13.0,2025-01-22 00:00:00
+403,403,Madhya Pradesh,Balaghat,22.9,Sunny,33,10.1,2025-01-22 00:00:00
+404,404,Madhya Pradesh,Barwani,24.3,Sunny,29,11.2,2025-01-22 00:00:00
+405,405,Madhya Pradesh,Betul,22.1,Sunny,30,9.7,2025-01-22 00:00:00
+406,406,Madhya Pradesh,Bhind,19.2,Sunny,43,10.4,2025-01-22 00:00:00
+407,407,Madhya Pradesh,Bhopal,21.9,Sunny,39,9.4,2025-01-22 00:00:00
+408,408,Madhya Pradesh,Burhanpur,24.0,Sunny,28,10.4,2025-01-22 00:00:00
+409,409,Madhya Pradesh,Chhatarpur,21.0,Sunny,46,13.0,2025-01-22 00:00:00
+410,410,Maharashtra,Ahmednagar,24.2,Sunny,22,13.0,2025-01-22 00:00:00
+411,411,Maharashtra,Akola,25.1,Sunny,21,11.2,2025-01-22 00:00:00
+412,412,Maharashtra,Amravati,24.6,Sunny,22,8.3,2025-01-22 00:00:00
+413,413,Maharashtra,Aurangabad,23.5,Sunny,25,10.8,2025-01-22 00:00:00
+414,414,Maharashtra,Beed,15.4,Partly cloudy,31,15.5,2025-01-22 00:00:00
+415,415,Maharashtra,Bhandara,23.5,Sunny,29,10.1,2025-01-22 00:00:00
+416,416,Maharashtra,Buldhana,24.7,Sunny,72,17.6,2025-01-22 00:00:00
+417,417,Maharashtra,Chandrapur,24.3,Sunny,26,6.1,2025-01-22 00:00:00
+418,418,Maharashtra,Dhule,25.7,Sunny,27,15.5,2025-01-22 00:00:00
+419,419,Maharashtra,Gadchiroli,24.7,Sunny,72,17.6,2025-01-22 00:00:00
+420,420,Manipur,Bishnupur,23.9,Sunny,34,12.6,2025-01-22 00:00:00
+421,421,Manipur,Churachandpur,14.4,Sunny,53,8.6,2025-01-22 00:00:00
+422,422,Manipur,Imphal East,14.4,Sunny,53,8.6,2025-01-22 00:00:00
+423,423,Manipur,Imphal West,14.4,Sunny,53,8.6,2025-01-22 00:00:00
+424,424,Manipur,Jiribam,24.7,Sunny,72,17.6,2025-01-22 00:00:00
+425,425,Manipur,Kakching,14.4,Sunny,53,8.6,2025-01-22 00:00:00
+426,426,Manipur,Kamjong,24.7,Sunny,72,17.6,2025-01-22 00:00:00
+427,427,Manipur,Kangpokpi,14.4,Sunny,53,8.6,2025-01-22 00:00:00
+428,428,Manipur,Noney,24.7,Sunny,72,17.6,2025-01-22 00:00:00
+429,429,Manipur,Pherzawl,24.7,Sunny,72,17.6,2025-01-22 00:00:00
+430,430,Meghalaya,East Garo Hills,22.9,Light rain shower,89,5.8,2025-01-22 00:00:00
+431,431,Meghalaya,East Khasi Hills,2.9,Moderate or heavy snow showers,61,23.4,2025-01-22 00:00:00
+432,432,Meghalaya,Jaintia Hills,21.3,Sunny,47,15.1,2025-01-22 00:00:00
+433,433,Meghalaya,Ri Bhoi,19.0,Sunny,28,15.8,2025-01-22 00:00:00
+434,434,Meghalaya,South Garo Hills,26.0,Sunny,17,27.0,2025-01-22 00:00:00
+435,435,Meghalaya,South Khasi Hills,2.9,Moderate or heavy snow showers,61,23.4,2025-01-22 00:00:00
+436,436,Meghalaya,West Garo Hills,13.4,Patchy rain possible,41,16.6,2025-01-22 00:00:00
+437,437,Meghalaya,West Khasi Hills,2.9,Moderate or heavy snow showers,61,23.4,2025-01-22 00:00:00
+438,438,Mizoram,Aizawl,17.6,Sunny,47,5.0,2025-01-22 00:00:00
+439,439,Mizoram,Champhai,24.7,Sunny,72,17.6,2025-01-22 00:00:00
+440,440,Mizoram,Hnahthial,17.4,Sunny,29,6.5,2025-01-22 00:00:00
+441,441,Mizoram,Kolasib,24.7,Sunny,72,17.6,2025-01-22 00:00:00
+442,442,Mizoram,Lawngtlai,19.0,Sunny,42,7.2,2025-01-22 00:00:00
+443,443,Mizoram,Lunglei,19.0,Sunny,42,7.2,2025-01-22 00:00:00
+444,444,Mizoram,Mamit,17.6,Sunny,47,5.0,2025-01-22 00:00:00
+445,445,Mizoram,Saitual,17.6,Sunny,47,5.0,2025-01-22 00:00:00
+446,446,Mizoram,Serchhip,19.0,Sunny,42,7.2,2025-01-22 00:00:00
+447,447,Nagaland,Dimapur,17.6,Sunny,50,7.6,2025-01-22 00:00:00
+448,448,Nagaland,Kiphire,24.7,Sunny,72,17.6,2025-01-22 00:00:00
+449,449,Nagaland,Kohima,14.1,Sunny,53,8.3,2025-01-22 00:00:00
+450,450,Nagaland,Longleng,24.7,Sunny,72,17.6,2025-01-22 00:00:00
+451,451,Nagaland,Mokokchung,19.8,Sunny,50,6.5,2025-01-22 00:00:00
+452,452,Nagaland,Mon,19.9,Sunny,49,5.0,2025-01-22 00:00:00
+453,453,Nagaland,Peren,4.1,Light drizzle,86,23.4,2025-01-22 00:00:00
+454,454,Nagaland,Phek,14.1,Sunny,53,8.3,2025-01-22 00:00:00
+455,455,Nagaland,Tuensang,19.8,Sunny,50,6.5,2025-01-22 00:00:00
+456,456,Nagaland,Zunheboto,14.1,Sunny,53,8.3,2025-01-22 00:00:00
+457,457,Odisha,Angul,23.0,Sunny,30,10.4,2025-01-22 00:00:00
+458,458,Odisha,Balangir,23.0,Sunny,28,10.8,2025-01-22 00:00:00
+459,459,Odisha,Bargarh,23.7,Sunny,29,4.0,2025-01-22 00:00:00
+460,460,Odisha,Bhadrak,22.9,Sunny,43,13.7,2025-01-22 00:00:00
+461,461,Odisha,Boudh,24.7,Sunny,72,17.6,2025-01-22 00:00:00
+462,462,Odisha,Cuttack,23.4,Sunny,51,12.6,2025-01-22 00:00:00
+463,463,Odisha,Deogarh,21.7,Sunny,34,8.6,2025-01-22 00:00:00
+464,464,Odisha,Dhenkanal,23.4,Sunny,51,12.6,2025-01-22 00:00:00
+465,465,Odisha,Gajapati,24.7,Sunny,72,17.6,2025-01-22 00:00:00
+466,466,Odisha,Ganjam,22.1,Sunny,57,13.7,2025-01-22 00:00:00
+467,467,Punjab,Amritsar,15.8,Sunny,36,11.9,2025-01-22 00:00:00
+468,468,Punjab,Barnala,16.2,Sunny,36,10.1,2025-01-22 00:00:00
+469,469,Punjab,Bathinda,24.7,Sunny,72,17.6,2025-01-22 00:00:00
+470,470,Punjab,Faridkot,16.3,Sunny,34,8.6,2025-01-22 00:00:00
+471,471,Punjab,Fatehgarh Sahib,16.1,Sunny,37,11.5,2025-01-22 00:00:00
+472,472,Punjab,Fazilka,17.2,Sunny,33,12.6,2025-01-22 00:00:00
+473,473,Punjab,Ferozepur,16.2,Sunny,34,10.1,2025-01-22 00:00:00
+474,474,Punjab,Gurdaspur,15.9,Sunny,36,11.9,2025-01-22 00:00:00
+475,475,Punjab,Hoshiarpur,16.2,Sunny,38,13.3,2025-01-22 00:00:00
+476,476,Punjab,Jalandhar,15.9,Sunny,38,11.9,2025-01-22 00:00:00
+477,477,Rajasthan,Ajmer,19.5,Sunny,36,14.0,2025-01-22 00:00:00
+478,478,Rajasthan,Alwar,17.7,Sunny,41,9.0,2025-01-22 00:00:00
+479,479,Rajasthan,Banswara,23.2,Sunny,32,15.8,2025-01-22 00:00:00
+480,480,Rajasthan,Baran,22.0,Sunny,47,10.1,2025-01-22 00:00:00
+481,481,Rajasthan,Barmer,20.3,Sunny,24,17.6,2025-01-22 00:00:00
+482,482,Rajasthan,Bhilwara,20.3,Sunny,40,12.6,2025-01-22 00:00:00
+483,483,Rajasthan,Bikaner,19.5,Sunny,28,15.8,2025-01-22 00:00:00
+484,484,Rajasthan,Bundi,20.8,Sunny,49,11.9,2025-01-22 00:00:00
+485,485,Rajasthan,Chittorgarh,24.7,Sunny,72,17.6,2025-01-22 00:00:00
+486,486,Rajasthan,Churu,19.6,Sunny,31,15.8,2025-01-22 00:00:00
+487,487,Sikkim,East Sikkim,7.1,Sunny,58,10.4,2025-01-22 00:00:00
+488,488,Sikkim,North Sikkim,7.1,Sunny,58,10.4,2025-01-22 00:00:00
+489,489,Sikkim,South Sikkim,7.1,Sunny,58,10.4,2025-01-22 00:00:00
+490,490,Sikkim,West Sikkim,7.1,Sunny,58,10.4,2025-01-22 00:00:00
+491,491,Tamil Nadu,Ariyalur,23.4,Patchy rain possible,78,18.0,2025-01-22 00:00:00
+492,492,Tamil Nadu,Chengalpattu,23.7,Cloudy,72,19.1,2025-01-22 00:00:00
+493,493,Tamil Nadu,Chennai,24.8,Patchy rain possible,70,16.6,2025-01-22 00:00:00
+494,494,Tamil Nadu,Coimbatore,23.5,Sunny,60,13.3,2025-01-22 00:00:00
+495,495,Tamil Nadu,Cuddalore,24.3,Cloudy,75,20.9,2025-01-22 00:00:00
+496,496,Tamil Nadu,Dharmapuri,21.4,Sunny,68,13.7,2025-01-22 00:00:00
+497,497,Tamil Nadu,Dindigul,23.0,Sunny,71,11.5,2025-01-22 00:00:00
+498,498,Tamil Nadu,Erode,24.3,Sunny,59,10.4,2025-01-22 00:00:00
+499,499,Tamil Nadu,Kallakurichi,24.7,Sunny,72,17.6,2025-01-22 00:00:00
+500,500,Tamil Nadu,Kanchipuram,23.3,Partly cloudy,73,16.9,2025-01-22 00:00:00
+501,501,Telangana,Adilabad,24.4,Sunny,23,5.8,2025-01-22 00:00:00
+502,502,Telangana,Hyderabad,23.7,Sunny,33,15.5,2025-01-22 00:00:00
+503,503,Telangana,Jagtial,24.2,Sunny,25,9.0,2025-01-22 00:00:00
+504,504,Telangana,Jangaon,23.1,Sunny,40,14.0,2025-01-22 00:00:00
+505,505,Telangana,Jayashankar Bhupalapally,24.7,Sunny,72,17.6,2025-01-22 00:00:00
+506,506,Telangana,Jogulamba Gadwal,24.7,Sunny,34,12.6,2025-01-22 00:00:00
+507,507,Telangana,Kamareddy,24.7,Sunny,72,17.6,2025-01-22 00:00:00
+508,508,Telangana,Karimnagar,23.7,Sunny,31,7.9,2025-01-22 00:00:00
+509,509,Telangana,Khammam,23.5,Sunny,58,12.6,2025-01-22 00:00:00
+510,510,Telangana,Komaram Bheem Asifabad,23.7,Sunny,26,9.4,2025-01-22 00:00:00
+511,511,Tripura,Dhalai,18.5,Sunny,49,8.6,2025-01-22 00:00:00
+512,512,Tripura,Khowai,19.5,Sunny,49,7.6,2025-01-22 00:00:00
+513,513,Tripura,North Tripura,20.4,Sunny,41,10.1,2025-01-22 00:00:00
+514,514,Tripura,Sepahijala,24.7,Sunny,72,17.6,2025-01-22 00:00:00
+515,515,Tripura,South Tripura,20.4,Sunny,41,10.1,2025-01-22 00:00:00
+516,516,Tripura,Unakoti,24.7,Sunny,72,17.6,2025-01-22 00:00:00
+517,517,Tripura,West Tripura,20.4,Sunny,41,10.1,2025-01-22 00:00:00
+518,518,Uttar Pradesh,Agra,18.7,Sunny,42,9.4,2025-01-22 00:00:00
+519,519,Uttar Pradesh,Aligarh,18.2,Sunny,44,13.0,2025-01-22 00:00:00
+520,520,Uttar Pradesh,Allahabad,19.9,Sunny,42,10.8,2025-01-22 00:00:00
+521,521,Uttar Pradesh,Ambedkar Nagar,19.9,Sunny,36,12.6,2025-01-22 00:00:00
+522,522,Uttar Pradesh,Amethi,19.1,Sunny,39,16.9,2025-01-22 00:00:00
+523,523,Uttar Pradesh,Amroha,18.3,Sunny,38,14.4,2025-01-22 00:00:00
+524,524,Uttar Pradesh,Auraiya,19.0,Sunny,44,11.5,2025-01-22 00:00:00
+525,525,Uttar Pradesh,Azamgarh,18.6,Sunny,45,14.0,2025-01-22 00:00:00
+526,526,Uttar Pradesh,Baghpat,17.3,Sunny,41,11.9,2025-01-22 00:00:00
+527,527,Uttar Pradesh,Bahraich,18.7,Sunny,41,16.9,2025-01-22 00:00:00
+528,528,Uttarakhand,Almora,12.1,Sunny,35,9.0,2025-01-22 00:00:00
+529,529,Uttarakhand,Bageshwar,12.1,Sunny,35,9.0,2025-01-22 00:00:00
+530,530,Uttarakhand,Chamoli,-1.9,Patchy snow possible,44,14.0,2025-01-22 00:00:00
+531,531,Uttarakhand,Champawat,12.1,Sunny,35,9.0,2025-01-22 00:00:00
+532,532,Uttarakhand,Dehradun,14.9,Sunny,35,9.7,2025-01-22 00:00:00
+533,533,Uttarakhand,Haridwar,17.3,Sunny,36,9.7,2025-01-22 00:00:00
+534,534,Uttarakhand,Nainital,24.7,Sunny,72,17.6,2025-01-22 00:00:00
+535,535,Uttarakhand,Pauri Garhwal,17.4,Sunny,36,12.2,2025-01-22 00:00:00
+536,536,Uttarakhand,Pithoragarh,13.4,Sunny,34,10.1,2025-01-22 00:00:00
+537,537,Uttarakhand,Rudraprayag,-1.9,Patchy snow possible,44,14.0,2025-01-22 00:00:00
+538,538,West Bengal,Alipurduar,24.7,Sunny,72,17.6,2025-01-22 00:00:00
+539,539,West Bengal,Bankura,22.9,Sunny,30,12.2,2025-01-22 00:00:00
+540,540,West Bengal,Birbhum,24.7,Sunny,72,17.6,2025-01-22 00:00:00
+541,541,West Bengal,Burdwan,22.3,Sunny,36,15.1,2025-01-22 00:00:00
+542,542,West Bengal,Cooch Behar,20.5,Sunny,48,9.4,2025-01-22 00:00:00
+543,543,West Bengal,Dakshin Dinajpur,20.8,Sunny,41,9.0,2025-01-22 00:00:00
+544,544,West Bengal,Hooghly,22.7,Sunny,36,14.4,2025-01-22 00:00:00
+545,545,West Bengal,Howrah,23.7,Sunny,34,13.0,2025-01-22 00:00:00
+546,546,West Bengal,Jalpaiguri,20.3,Sunny,46,8.6,2025-01-22 00:00:00
+547,547,West Bengal,Jhargram,23.2,Sunny,34,9.4,2025-01-22 00:00:00
+548,548,Andaman and Nicobar Islands,Nicobar,27.4,Cloudy,72,23.4,2025-01-22 00:00:00
+549,549,Andaman and Nicobar Islands,North and Middle Andaman,27.4,Cloudy,72,23.4,2025-01-22 00:00:00
+550,550,Andaman and Nicobar Islands,South Andaman,27.4,Cloudy,72,23.4,2025-01-22 00:00:00
+551,551,Chandigarh,Chandigarh,17.0,Sunny,33,10.8,2025-01-22 00:00:00
+552,552,Dadra and Nagar Haveli and Daman and Diu,Daman,23.8,Sunny,42,20.2,2025-01-22 00:00:00
+553,553,Dadra and Nagar Haveli and Daman and Diu,Diu,23.2,Sunny,36,15.8,2025-01-22 00:00:00
+554,554,Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,23.8,Sunny,42,20.2,2025-01-22 00:00:00
+555,555,Lakshadweep,Aminidivi,24.7,Sunny,72,17.6,2025-01-22 00:00:00
+556,556,Lakshadweep,Androth,24.7,Sunny,72,17.6,2025-01-22 00:00:00
+557,557,Lakshadweep,Bithra,24.7,Sunny,72,17.6,2025-01-22 00:00:00
+558,558,Lakshadweep,Kalapeni,24.7,Sunny,72,17.6,2025-01-22 00:00:00
+559,559,Lakshadweep,Kavaratti,28.2,Sunny,63,20.9,2025-01-22 00:00:00
+560,560,Lakshadweep,Minicoy,24.7,Sunny,72,17.6,2025-01-22 00:00:00
+561,561,Lakshadweep,Suheli,24.7,Sunny,72,17.6,2025-01-22 00:00:00
+562,562,Delhi,Central Delhi,18.8,Sunny,36,8.6,2025-01-22 00:00:00
+563,563,Delhi,East Delhi,18.8,Sunny,36,8.6,2025-01-22 00:00:00
+564,564,Delhi,New Delhi,19.2,Sunny,35,8.6,2025-01-22 00:00:00
+565,565,Delhi,North Delhi,18.8,Sunny,36,8.6,2025-01-22 00:00:00
+566,566,Delhi,North East Delhi,18.8,Sunny,36,8.6,2025-01-22 00:00:00
+567,567,Delhi,North West Delhi,18.8,Sunny,36,8.6,2025-01-22 00:00:00
+568,568,Delhi,Shahdara,19.5,Sunny,34,9.7,2025-01-22 00:00:00
+569,569,Delhi,South Delhi,18.8,Sunny,36,8.6,2025-01-22 00:00:00
+570,570,Delhi,South East Delhi,18.8,Sunny,36,8.6,2025-01-22 00:00:00
+571,571,Delhi,South West Delhi,18.8,Sunny,36,8.6,2025-01-22 00:00:00
+572,572,Puducherry,Karaikal,24.6,Patchy rain possible,77,19.8,2025-01-22 00:00:00
+573,573,Puducherry,Mahe,25.6,Sunny,67,18.4,2025-01-22 00:00:00
+574,574,Puducherry,Puducherry,24.3,Patchy rain possible,74,20.2,2025-01-22 00:00:00
+575,575,Puducherry,Yanam,23.2,Sunny,65,14.4,2025-01-22 00:00:00
+576,576,Andhra Pradesh,Anantapur,24.7,Sunny,46,20.2,2025-01-21 00:00:00
+577,577,Andhra Pradesh,Chittoor,21.5,Sunny,67,15.5,2025-01-21 00:00:00
+578,578,Andhra Pradesh,East Godavari,23.3,Sunny,66,14.0,2025-01-21 00:00:00
+579,579,Andhra Pradesh,Guntur,22.9,Sunny,71,15.5,2025-01-21 00:00:00
+580,580,Andhra Pradesh,Krishna,22.9,Sunny,74,14.8,2025-01-21 00:00:00
+581,581,Andhra Pradesh,Kurnool,25.0,Sunny,37,14.8,2025-01-21 00:00:00
+582,582,Andhra Pradesh,Prakasam,25.0,Sunny,72,18.7,2025-01-21 00:00:00
+583,583,Andhra Pradesh,Srikakulam,22.3,Sunny,62,14.4,2025-01-21 00:00:00
+584,584,Andhra Pradesh,Visakhapatnam,23.9,Sunny,59,12.2,2025-01-21 00:00:00
+585,585,Andhra Pradesh,Vizianagaram,22.3,Sunny,58,13.0,2025-01-21 00:00:00
+586,586,Arunachal Pradesh,Tawang,-0.2,Sunny,30,10.8,2025-01-21 00:00:00
+587,587,Arunachal Pradesh,West Kameng,25.3,Sunny,35,10.8,2025-01-21 00:00:00
+588,588,Arunachal Pradesh,East Kameng,25.3,Sunny,35,10.8,2025-01-21 00:00:00
+589,589,Arunachal Pradesh,Papum Pare,28.5,Sunny,11,8.6,2025-01-21 00:00:00
+590,590,Arunachal Pradesh,Kurung Kumey,-1.0,Light snow,80,33.1,2025-01-21 00:00:00
+591,591,Arunachal Pradesh,Kra Daadi,26.9,Sunny,47,27.7,2025-01-21 00:00:00
+592,592,Arunachal Pradesh,Lower Subansiri,-12.6,Overcast,59,15.5,2025-01-21 00:00:00
+593,593,Arunachal Pradesh,Upper Subansiri,20.2,Sunny,72,14.8,2025-01-21 00:00:00
+594,594,Arunachal Pradesh,West Siang,21.4,Sunny,36,11.5,2025-01-21 00:00:00
+595,595,Arunachal Pradesh,East Siang,21.4,Sunny,36,11.5,2025-01-21 00:00:00
+596,596,Assam,Baksa,19.9,Sunny,46,9.0,2025-01-21 00:00:00
+597,597,Assam,Barpeta,19.8,Sunny,49,7.6,2025-01-21 00:00:00
+598,598,Assam,Biswanath,22.7,Sunny,33,11.5,2025-01-21 00:00:00
+599,599,Assam,Bongaigaon,19.6,Sunny,43,8.3,2025-01-21 00:00:00
+600,600,Assam,Cachar,25.0,Sunny,72,18.7,2025-01-21 00:00:00
+601,601,Assam,Charaideo,25.0,Sunny,72,18.7,2025-01-21 00:00:00
+602,602,Assam,Chirang,5.2,Sunny,59,11.2,2025-01-21 00:00:00
+603,603,Assam,Darrang,19.1,Sunny,48,6.1,2025-01-21 00:00:00
+604,604,Assam,Dhemaji,18.3,Sunny,44,7.9,2025-01-21 00:00:00
+605,605,Assam,Dhubri,20.2,Sunny,49,7.6,2025-01-21 00:00:00
+606,606,Bihar,Araria,19.1,Sunny,41,8.3,2025-01-21 00:00:00
+607,607,Bihar,Arwal,18.4,Sunny,55,21.6,2025-01-21 00:00:00
+608,608,Bihar,Aurangabad,23.1,Sunny,29,11.5,2025-01-21 00:00:00
+609,609,Bihar,Banka,18.5,Sunny,56,20.2,2025-01-21 00:00:00
+610,610,Bihar,Begusarai,18.2,Sunny,58,22.0,2025-01-21 00:00:00
+611,611,Bihar,Bhagalpur,18.5,Sunny,56,20.2,2025-01-21 00:00:00
+612,612,Bihar,Bhojpur,18.2,Sunny,42,22.7,2025-01-21 00:00:00
+613,613,Bihar,Buxar,18.6,Sunny,53,19.8,2025-01-21 00:00:00
+614,614,Bihar,Darbhanga,18.2,Sunny,48,16.9,2025-01-21 00:00:00
+615,615,Bihar,East Champaran,23.3,Sunny,66,14.0,2025-01-21 00:00:00
+616,616,Chhattisgarh,Balod,21.7,Sunny,22,12.6,2025-01-21 00:00:00
+617,617,Chhattisgarh,Baloda Bazar,22.9,Sunny,29,10.8,2025-01-21 00:00:00
+618,618,Chhattisgarh,Balrampur,18.0,Sunny,51,21.2,2025-01-21 00:00:00
+619,619,Chhattisgarh,Bastar,21.1,Sunny,21,8.3,2025-01-21 00:00:00
+620,620,Chhattisgarh,Bemetara,22.9,Sunny,29,10.8,2025-01-21 00:00:00
+621,621,Chhattisgarh,Bijapur,25.3,Sunny,22,14.0,2025-01-21 00:00:00
+622,622,Chhattisgarh,Bilaspur,22.5,Sunny,34,9.4,2025-01-21 00:00:00
+623,623,Chhattisgarh,Dantewada,25.0,Sunny,72,18.7,2025-01-21 00:00:00
+624,624,Chhattisgarh,Dhamtari,21.7,Sunny,22,12.6,2025-01-21 00:00:00
+625,625,Chhattisgarh,Durg,22.8,Sunny,20,9.4,2025-01-21 00:00:00
+626,626,Goa,North Goa,26.0,Sunny,44,25.9,2025-01-21 00:00:00
+627,627,Goa,South Goa,26.0,Sunny,44,25.9,2025-01-21 00:00:00
+628,628,Gujarat,Ahmedabad,23.6,Sunny,33,14.8,2025-01-21 00:00:00
+629,629,Gujarat,Amreli,24.1,Sunny,32,14.8,2025-01-21 00:00:00
+630,630,Gujarat,Anand,24.1,Sunny,34,13.7,2025-01-21 00:00:00
+631,631,Gujarat,Aravalli,25.0,Sunny,72,18.7,2025-01-21 00:00:00
+632,632,Gujarat,Banaskantha,21.8,Sunny,37,13.3,2025-01-21 00:00:00
+633,633,Gujarat,Bharuch,24.8,Sunny,36,14.0,2025-01-21 00:00:00
+634,634,Gujarat,Bhavnagar,23.5,Sunny,42,16.9,2025-01-21 00:00:00
+635,635,Gujarat,Botad,24.0,Sunny,32,16.2,2025-01-21 00:00:00
+636,636,Gujarat,Chhota Udaipur,18.1,Sunny,31,11.2,2025-01-21 00:00:00
+637,637,Gujarat,Dahod,23.8,Sunny,34,7.9,2025-01-21 00:00:00
+638,638,Haryana,Ambala,16.5,Overcast,37,19.1,2025-01-21 00:00:00
+639,639,Haryana,Bhiwani,17.3,Sunny,33,12.2,2025-01-21 00:00:00
+640,640,Haryana,Charkhi Dadri,17.3,Sunny,33,12.2,2025-01-21 00:00:00
+641,641,Haryana,Faridabad,18.4,Sunny,35,15.5,2025-01-21 00:00:00
+642,642,Haryana,Fatehabad,17.3,Sunny,30,12.2,2025-01-21 00:00:00
+643,643,Haryana,Gurugram,25.0,Sunny,72,18.7,2025-01-21 00:00:00
+644,644,Haryana,Hisar,17.5,Sunny,31,12.2,2025-01-21 00:00:00
+645,645,Haryana,Jhajjar,17.3,Sunny,36,14.0,2025-01-21 00:00:00
+646,646,Haryana,Jind,16.9,Sunny,33,14.0,2025-01-21 00:00:00
+647,647,Haryana,Kaithal,16.1,Sunny,36,15.5,2025-01-21 00:00:00
+648,648,Himachal Pradesh,Bilaspur,22.5,Sunny,34,9.4,2025-01-21 00:00:00
+649,649,Himachal Pradesh,Chamba,15.4,Sunny,36,11.2,2025-01-21 00:00:00
+650,650,Himachal Pradesh,Hamirpur,19.0,Sunny,50,16.9,2025-01-21 00:00:00
+651,651,Himachal Pradesh,Kangra,15.4,Sunny,36,11.2,2025-01-21 00:00:00
+652,652,Himachal Pradesh,Kinnaur,25.0,Sunny,72,18.7,2025-01-21 00:00:00
+653,653,Himachal Pradesh,Kullu,25.1,Sunny,14,21.2,2025-01-21 00:00:00
+654,654,Himachal Pradesh,Lahaul and Spiti,11.9,Overcast,38,9.4,2025-01-21 00:00:00
+655,655,Himachal Pradesh,Mandi,16.0,Overcast,36,9.7,2025-01-21 00:00:00
+656,656,Himachal Pradesh,Shimla,11.9,Overcast,38,9.4,2025-01-21 00:00:00
+657,657,Himachal Pradesh,Sirmaur,20.7,Sunny,52,14.0,2025-01-21 00:00:00
+658,658,Jharkhand,Bokaro,20.7,Sunny,40,20.9,2025-01-21 00:00:00
+659,659,Jharkhand,Chatra,19.3,Sunny,44,23.8,2025-01-21 00:00:00
+660,660,Jharkhand,Deoghar,20.5,Sunny,45,24.5,2025-01-21 00:00:00
+661,661,Jharkhand,Dhanbad,22.2,Sunny,38,18.7,2025-01-21 00:00:00
+662,662,Jharkhand,Dumka,20.6,Sunny,45,21.6,2025-01-21 00:00:00
+663,663,Jharkhand,East Singhbhum,23.3,Sunny,66,14.0,2025-01-21 00:00:00
+664,664,Jharkhand,Garhwa,20.1,Sunny,50,17.3,2025-01-21 00:00:00
+665,665,Jharkhand,Giridih,20.6,Sunny,44,21.6,2025-01-21 00:00:00
+666,666,Jharkhand,Godda,18.5,Sunny,56,20.2,2025-01-21 00:00:00
+667,667,Jharkhand,Gumla,20.6,Sunny,39,19.1,2025-01-21 00:00:00
+668,668,Karnataka,Bagalkot,25.0,Sunny,24,15.5,2025-01-21 00:00:00
+669,669,Karnataka,Ballari,24.3,Sunny,42,14.8,2025-01-21 00:00:00
+670,670,Karnataka,Belagavi,23.8,Sunny,24,13.7,2025-01-21 00:00:00
+671,671,Karnataka,Bengaluru Rural,22.2,Sunny,48,17.3,2025-01-21 00:00:00
+672,672,Karnataka,Bengaluru Urban,22.2,Sunny,48,17.3,2025-01-21 00:00:00
+673,673,Karnataka,Bidar,23.7,Sunny,20,13.0,2025-01-21 00:00:00
+674,674,Karnataka,Chamarajanagar,25.0,Sunny,72,18.7,2025-01-21 00:00:00
+675,675,Karnataka,Chikkaballapur,25.0,Sunny,72,18.7,2025-01-21 00:00:00
+676,676,Karnataka,Chikkamagaluru,21.4,Sunny,39,14.0,2025-01-21 00:00:00
+677,677,Karnataka,Chitradurga,23.9,Sunny,38,19.8,2025-01-21 00:00:00
+678,678,Kerala,Alappuzha,26.7,Sunny,76,20.2,2025-01-21 00:00:00
+679,679,Kerala,Ernakulam,26.7,Sunny,74,20.2,2025-01-21 00:00:00
+680,680,Kerala,Idukki,21.7,Sunny,70,10.1,2025-01-21 00:00:00
+681,681,Kerala,Kannur,26.5,Sunny,71,19.8,2025-01-21 00:00:00
+682,682,Kerala,Kasaragod,26.0,Sunny,74,20.2,2025-01-21 00:00:00
+683,683,Kerala,Kollam,26.3,Sunny,67,16.6,2025-01-21 00:00:00
+684,684,Kerala,Kottayam,26.7,Patchy rain possible,73,16.2,2025-01-21 00:00:00
+685,685,Kerala,Kozhikode,26.6,Sunny,75,20.2,2025-01-21 00:00:00
+686,686,Kerala,Malappuram,26.6,Sunny,66,11.5,2025-01-21 00:00:00
+687,687,Kerala,Palakkad,25.1,Sunny,54,20.5,2025-01-21 00:00:00
+688,688,Madhya Pradesh,Alirajpur,23.8,Sunny,34,7.9,2025-01-21 00:00:00
+689,689,Madhya Pradesh,Anuppur,20.0,Sunny,46,11.5,2025-01-21 00:00:00
+690,690,Madhya Pradesh,Ashoknagar,21.1,Sunny,49,8.6,2025-01-21 00:00:00
+691,691,Madhya Pradesh,Balaghat,22.6,Sunny,33,9.0,2025-01-21 00:00:00
+692,692,Madhya Pradesh,Barwani,24.1,Sunny,28,8.3,2025-01-21 00:00:00
+693,693,Madhya Pradesh,Betul,21.3,Sunny,32,8.6,2025-01-21 00:00:00
+694,694,Madhya Pradesh,Bhind,18.7,Sunny,48,16.6,2025-01-21 00:00:00
+695,695,Madhya Pradesh,Bhopal,21.6,Sunny,44,9.4,2025-01-21 00:00:00
+696,696,Madhya Pradesh,Burhanpur,23.3,Sunny,28,8.6,2025-01-21 00:00:00
+697,697,Madhya Pradesh,Chhatarpur,21.0,Sunny,55,11.9,2025-01-21 00:00:00
+698,698,Maharashtra,Ahmednagar,23.8,Sunny,24,14.4,2025-01-21 00:00:00
+699,699,Maharashtra,Akola,24.5,Sunny,27,8.6,2025-01-21 00:00:00
+700,700,Maharashtra,Amravati,24.2,Sunny,25,9.0,2025-01-21 00:00:00
+701,701,Maharashtra,Aurangabad,23.1,Sunny,29,11.5,2025-01-21 00:00:00
+702,702,Maharashtra,Beed,14.1,Sunny,32,23.4,2025-01-21 00:00:00
+703,703,Maharashtra,Bhandara,22.9,Sunny,32,10.1,2025-01-21 00:00:00
+704,704,Maharashtra,Buldhana,25.0,Sunny,72,18.7,2025-01-21 00:00:00
+705,705,Maharashtra,Chandrapur,23.5,Sunny,25,5.8,2025-01-21 00:00:00
+706,706,Maharashtra,Dhule,25.1,Sunny,27,11.9,2025-01-21 00:00:00
+707,707,Maharashtra,Gadchiroli,25.0,Sunny,72,18.7,2025-01-21 00:00:00
+708,708,Manipur,Bishnupur,23.4,Sunny,29,14.4,2025-01-21 00:00:00
+709,709,Manipur,Churachandpur,14.2,Sunny,50,6.8,2025-01-21 00:00:00
+710,710,Manipur,Imphal East,14.2,Sunny,50,6.8,2025-01-21 00:00:00
+711,711,Manipur,Imphal West,14.2,Sunny,50,6.8,2025-01-21 00:00:00
+712,712,Manipur,Jiribam,25.0,Sunny,72,18.7,2025-01-21 00:00:00
+713,713,Manipur,Kakching,14.2,Sunny,50,6.8,2025-01-21 00:00:00
+714,714,Manipur,Kamjong,25.0,Sunny,72,18.7,2025-01-21 00:00:00
+715,715,Manipur,Kangpokpi,14.2,Sunny,50,6.8,2025-01-21 00:00:00
+716,716,Manipur,Noney,25.0,Sunny,72,18.7,2025-01-21 00:00:00
+717,717,Manipur,Pherzawl,25.0,Sunny,72,18.7,2025-01-21 00:00:00
+718,718,Meghalaya,East Garo Hills,22.4,Light rain shower,91,8.6,2025-01-21 00:00:00
+719,719,Meghalaya,East Khasi Hills,6.9,Overcast,58,23.0,2025-01-21 00:00:00
+720,720,Meghalaya,Jaintia Hills,21.5,Sunny,48,16.9,2025-01-21 00:00:00
+721,721,Meghalaya,Ri Bhoi,18.6,Sunny,24,15.5,2025-01-21 00:00:00
+722,722,Meghalaya,South Garo Hills,28.1,Sunny,16,18.0,2025-01-21 00:00:00
+723,723,Meghalaya,South Khasi Hills,6.9,Overcast,58,23.0,2025-01-21 00:00:00
+724,724,Meghalaya,West Garo Hills,13.5,Sunny,49,15.8,2025-01-21 00:00:00
+725,725,Meghalaya,West Khasi Hills,6.9,Overcast,58,23.0,2025-01-21 00:00:00
+726,726,Mizoram,Aizawl,16.9,Sunny,48,5.4,2025-01-21 00:00:00
+727,727,Mizoram,Champhai,25.0,Sunny,72,18.7,2025-01-21 00:00:00
+728,728,Mizoram,Hnahthial,17.2,Sunny,27,6.1,2025-01-21 00:00:00
+729,729,Mizoram,Kolasib,25.0,Sunny,72,18.7,2025-01-21 00:00:00
+730,730,Mizoram,Lawngtlai,18.2,Sunny,42,6.8,2025-01-21 00:00:00
+731,731,Mizoram,Lunglei,18.2,Sunny,42,6.8,2025-01-21 00:00:00
+732,732,Mizoram,Mamit,16.9,Sunny,48,5.4,2025-01-21 00:00:00
+733,733,Mizoram,Saitual,16.9,Sunny,48,5.4,2025-01-21 00:00:00
+734,734,Mizoram,Serchhip,18.2,Sunny,42,6.8,2025-01-21 00:00:00
+735,735,Nagaland,Dimapur,17.1,Sunny,49,7.2,2025-01-21 00:00:00
+736,736,Nagaland,Kiphire,25.0,Sunny,72,18.7,2025-01-21 00:00:00
+737,737,Nagaland,Kohima,13.8,Sunny,50,7.6,2025-01-21 00:00:00
+738,738,Nagaland,Longleng,25.0,Sunny,72,18.7,2025-01-21 00:00:00
+739,739,Nagaland,Mokokchung,19.4,Sunny,49,6.5,2025-01-21 00:00:00
+740,740,Nagaland,Mon,19.5,Sunny,47,6.5,2025-01-21 00:00:00
+741,741,Nagaland,Peren,1.8,Sunny,82,11.5,2025-01-21 00:00:00
+742,742,Nagaland,Phek,13.8,Sunny,50,7.6,2025-01-21 00:00:00
+743,743,Nagaland,Tuensang,19.4,Sunny,49,6.5,2025-01-21 00:00:00
+744,744,Nagaland,Zunheboto,13.8,Sunny,50,7.6,2025-01-21 00:00:00
+745,745,Odisha,Angul,22.0,Sunny,24,7.9,2025-01-21 00:00:00
+746,746,Odisha,Balangir,22.2,Sunny,23,11.2,2025-01-21 00:00:00
+747,747,Odisha,Bargarh,23.0,Sunny,25,6.5,2025-01-21 00:00:00
+748,748,Odisha,Bhadrak,22.6,Sunny,42,11.9,2025-01-21 00:00:00
+749,749,Odisha,Boudh,25.0,Sunny,72,18.7,2025-01-21 00:00:00
+750,750,Odisha,Cuttack,22.5,Sunny,46,10.4,2025-01-21 00:00:00
+751,751,Odisha,Deogarh,21.2,Sunny,31,9.4,2025-01-21 00:00:00
+752,752,Odisha,Dhenkanal,22.5,Sunny,46,10.4,2025-01-21 00:00:00
+753,753,Odisha,Gajapati,25.0,Sunny,72,18.7,2025-01-21 00:00:00
+754,754,Odisha,Ganjam,21.8,Sunny,52,12.2,2025-01-21 00:00:00
+755,755,Punjab,Amritsar,16.1,Sunny,33,13.3,2025-01-21 00:00:00
+756,756,Punjab,Barnala,16.1,Overcast,33,12.6,2025-01-21 00:00:00
+757,757,Punjab,Bathinda,25.0,Sunny,72,18.7,2025-01-21 00:00:00
+758,758,Punjab,Faridkot,16.5,Sunny,31,11.2,2025-01-21 00:00:00
+759,759,Punjab,Fatehgarh Sahib,16.1,Overcast,34,14.8,2025-01-21 00:00:00
+760,760,Punjab,Fazilka,16.9,Sunny,31,10.8,2025-01-21 00:00:00
+761,761,Punjab,Ferozepur,16.6,Sunny,31,11.5,2025-01-21 00:00:00
+762,762,Punjab,Gurdaspur,15.7,Sunny,35,10.8,2025-01-21 00:00:00
+763,763,Punjab,Hoshiarpur,16.0,Overcast,36,14.8,2025-01-21 00:00:00
+764,764,Punjab,Jalandhar,15.8,Cloudy,36,13.7,2025-01-21 00:00:00
+765,765,Rajasthan,Ajmer,19.9,Sunny,39,13.0,2025-01-21 00:00:00
+766,766,Rajasthan,Alwar,17.3,Sunny,42,13.0,2025-01-21 00:00:00
+767,767,Rajasthan,Banswara,23.7,Sunny,37,10.1,2025-01-21 00:00:00
+768,768,Rajasthan,Baran,21.7,Sunny,51,12.2,2025-01-21 00:00:00
+769,769,Rajasthan,Barmer,20.7,Sunny,27,12.2,2025-01-21 00:00:00
+770,770,Rajasthan,Bhilwara,20.5,Sunny,45,8.6,2025-01-21 00:00:00
+771,771,Rajasthan,Bikaner,18.8,Sunny,23,13.0,2025-01-21 00:00:00
+772,772,Rajasthan,Bundi,20.8,Sunny,51,10.4,2025-01-21 00:00:00
+773,773,Rajasthan,Chittorgarh,25.0,Sunny,72,18.7,2025-01-21 00:00:00
+774,774,Rajasthan,Churu,19.0,Sunny,26,10.4,2025-01-21 00:00:00
+775,775,Sikkim,East Sikkim,7.4,Sunny,53,10.8,2025-01-21 00:00:00
+776,776,Sikkim,North Sikkim,7.4,Sunny,53,10.8,2025-01-21 00:00:00
+777,777,Sikkim,South Sikkim,7.4,Sunny,53,10.8,2025-01-21 00:00:00
+778,778,Sikkim,West Sikkim,7.4,Sunny,53,10.8,2025-01-21 00:00:00
+779,779,Tamil Nadu,Ariyalur,23.1,Mist,78,19.1,2025-01-21 00:00:00
+780,780,Tamil Nadu,Chengalpattu,23.4,Partly cloudy,73,20.5,2025-01-21 00:00:00
+781,781,Tamil Nadu,Chennai,24.4,Partly cloudy,70,18.7,2025-01-21 00:00:00
+782,782,Tamil Nadu,Coimbatore,23.8,Sunny,59,15.5,2025-01-21 00:00:00
+783,783,Tamil Nadu,Cuddalore,23.9,Partly cloudy,76,23.0,2025-01-21 00:00:00
+784,784,Tamil Nadu,Dharmapuri,21.6,Sunny,63,12.2,2025-01-21 00:00:00
+785,785,Tamil Nadu,Dindigul,22.7,Sunny,69,13.7,2025-01-21 00:00:00
+786,786,Tamil Nadu,Erode,24.3,Sunny,59,11.2,2025-01-21 00:00:00
+787,787,Tamil Nadu,Kallakurichi,25.0,Sunny,72,18.7,2025-01-21 00:00:00
+788,788,Tamil Nadu,Kanchipuram,23.2,Sunny,72,19.4,2025-01-21 00:00:00
+789,789,Telangana,Adilabad,23.2,Sunny,22,8.3,2025-01-21 00:00:00
+790,790,Telangana,Hyderabad,23.7,Sunny,26,11.5,2025-01-21 00:00:00
+791,791,Telangana,Jagtial,23.5,Sunny,21,7.2,2025-01-21 00:00:00
+792,792,Telangana,Jangaon,23.2,Sunny,30,11.2,2025-01-21 00:00:00
+793,793,Telangana,Jayashankar Bhupalapally,25.0,Sunny,72,18.7,2025-01-21 00:00:00
+794,794,Telangana,Jogulamba Gadwal,24.9,Sunny,30,12.6,2025-01-21 00:00:00
+795,795,Telangana,Kamareddy,25.0,Sunny,72,18.7,2025-01-21 00:00:00
+796,796,Telangana,Karimnagar,23.2,Sunny,22,7.6,2025-01-21 00:00:00
+797,797,Telangana,Khammam,23.9,Sunny,59,10.8,2025-01-21 00:00:00
+798,798,Telangana,Komaram Bheem Asifabad,23.1,Sunny,22,7.9,2025-01-21 00:00:00
+799,799,Tripura,Dhalai,19.1,Sunny,49,9.4,2025-01-21 00:00:00
+800,800,Tripura,Khowai,19.0,Sunny,47,8.6,2025-01-21 00:00:00
+801,801,Tripura,North Tripura,19.7,Sunny,42,10.1,2025-01-21 00:00:00
+802,802,Tripura,Sepahijala,25.0,Sunny,72,18.7,2025-01-21 00:00:00
+803,803,Tripura,South Tripura,19.7,Sunny,42,10.1,2025-01-21 00:00:00
+804,804,Tripura,Unakoti,25.0,Sunny,72,18.7,2025-01-21 00:00:00
+805,805,Tripura,West Tripura,19.7,Sunny,42,10.1,2025-01-21 00:00:00
+806,806,Uttar Pradesh,Agra,17.9,Sunny,46,14.4,2025-01-21 00:00:00
+807,807,Uttar Pradesh,Aligarh,17.3,Sunny,44,18.4,2025-01-21 00:00:00
+808,808,Uttar Pradesh,Allahabad,20.0,Sunny,50,17.3,2025-01-21 00:00:00
+809,809,Uttar Pradesh,Ambedkar Nagar,19.1,Sunny,45,13.3,2025-01-21 00:00:00
+810,810,Uttar Pradesh,Amethi,18.6,Sunny,45,22.7,2025-01-21 00:00:00
+811,811,Uttar Pradesh,Amroha,17.8,Sunny,37,22.7,2025-01-21 00:00:00
+812,812,Uttar Pradesh,Auraiya,18.7,Sunny,47,16.9,2025-01-21 00:00:00
+813,813,Uttar Pradesh,Azamgarh,18.5,Sunny,51,18.7,2025-01-21 00:00:00
+814,814,Uttar Pradesh,Baghpat,16.7,Sunny,38,18.0,2025-01-21 00:00:00
+815,815,Uttar Pradesh,Bahraich,18.5,Sunny,48,21.6,2025-01-21 00:00:00
+816,816,Uttarakhand,Almora,13.3,Partly cloudy,32,9.7,2025-01-21 00:00:00
+817,817,Uttarakhand,Bageshwar,13.3,Partly cloudy,32,9.7,2025-01-21 00:00:00
+818,818,Uttarakhand,Chamoli,-0.4,Light freezing rain,46,13.7,2025-01-21 00:00:00
+819,819,Uttarakhand,Champawat,13.3,Partly cloudy,32,9.7,2025-01-21 00:00:00
+820,820,Uttarakhand,Dehradun,15.6,Overcast,35,10.1,2025-01-21 00:00:00
+821,821,Uttarakhand,Haridwar,17.5,Overcast,38,11.9,2025-01-21 00:00:00
+822,822,Uttarakhand,Nainital,25.0,Sunny,72,18.7,2025-01-21 00:00:00
+823,823,Uttarakhand,Pauri Garhwal,17.1,Partly cloudy,40,19.8,2025-01-21 00:00:00
+824,824,Uttarakhand,Pithoragarh,14.2,Partly cloudy,31,10.1,2025-01-21 00:00:00
+825,825,Uttarakhand,Rudraprayag,-0.4,Light freezing rain,46,13.7,2025-01-21 00:00:00
+826,826,West Bengal,Alipurduar,25.0,Sunny,72,18.7,2025-01-21 00:00:00
+827,827,West Bengal,Bankura,22.4,Sunny,35,13.0,2025-01-21 00:00:00
+828,828,West Bengal,Birbhum,25.0,Sunny,72,18.7,2025-01-21 00:00:00
+829,829,West Bengal,Burdwan,21.8,Sunny,37,17.3,2025-01-21 00:00:00
+830,830,West Bengal,Cooch Behar,20.4,Sunny,46,8.6,2025-01-21 00:00:00
+831,831,West Bengal,Dakshin Dinajpur,20.0,Sunny,37,9.7,2025-01-21 00:00:00
+832,832,West Bengal,Hooghly,22.1,Sunny,34,17.6,2025-01-21 00:00:00
+833,833,West Bengal,Howrah,23.2,Sunny,29,14.4,2025-01-21 00:00:00
+834,834,West Bengal,Jalpaiguri,20.1,Sunny,44,8.6,2025-01-21 00:00:00
+835,835,West Bengal,Jhargram,22.9,Sunny,29,13.0,2025-01-21 00:00:00
+836,836,Andaman and Nicobar Islands,Nicobar,27.6,Patchy rain possible,74,22.7,2025-01-21 00:00:00
+837,837,Andaman and Nicobar Islands,North and Middle Andaman,27.6,Patchy rain possible,74,22.7,2025-01-21 00:00:00
+838,838,Andaman and Nicobar Islands,South Andaman,27.6,Patchy rain possible,74,22.7,2025-01-21 00:00:00
+839,839,Chandigarh,Chandigarh,17.1,Overcast,37,16.9,2025-01-21 00:00:00
+840,840,Dadra and Nagar Haveli and Daman and Diu,Daman,24.4,Sunny,43,19.4,2025-01-21 00:00:00
+841,841,Dadra and Nagar Haveli and Daman and Diu,Diu,23.4,Sunny,46,12.2,2025-01-21 00:00:00
+842,842,Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,24.4,Sunny,43,19.4,2025-01-21 00:00:00
+843,843,Lakshadweep,Aminidivi,25.0,Sunny,72,18.7,2025-01-21 00:00:00
+844,844,Lakshadweep,Androth,25.0,Sunny,72,18.7,2025-01-21 00:00:00
+845,845,Lakshadweep,Bithra,25.0,Sunny,72,18.7,2025-01-21 00:00:00
+846,846,Lakshadweep,Kalapeni,25.0,Sunny,72,18.7,2025-01-21 00:00:00
+847,847,Lakshadweep,Kavaratti,28.2,Patchy rain possible,71,19.8,2025-01-21 00:00:00
+848,848,Lakshadweep,Minicoy,25.0,Sunny,72,18.7,2025-01-21 00:00:00
+849,849,Lakshadweep,Suheli,25.0,Sunny,72,18.7,2025-01-21 00:00:00
+850,850,Delhi,Central Delhi,18.0,Sunny,34,14.4,2025-01-21 00:00:00
+851,851,Delhi,East Delhi,18.0,Sunny,34,14.4,2025-01-21 00:00:00
+852,852,Delhi,New Delhi,18.4,Sunny,33,14.4,2025-01-21 00:00:00
+853,853,Delhi,North Delhi,18.0,Sunny,34,14.4,2025-01-21 00:00:00
+854,854,Delhi,North East Delhi,18.0,Sunny,34,14.4,2025-01-21 00:00:00
+855,855,Delhi,North West Delhi,18.0,Sunny,34,14.4,2025-01-21 00:00:00
+856,856,Delhi,Shahdara,18.8,Sunny,32,15.1,2025-01-21 00:00:00
+857,857,Delhi,South Delhi,18.0,Sunny,34,14.4,2025-01-21 00:00:00
+858,858,Delhi,South East Delhi,18.0,Sunny,34,14.4,2025-01-21 00:00:00
+859,859,Delhi,South West Delhi,18.0,Sunny,34,14.4,2025-01-21 00:00:00
+860,860,Puducherry,Karaikal,24.4,Patchy rain possible,74,22.0,2025-01-21 00:00:00
+861,861,Puducherry,Mahe,26.3,Sunny,74,19.8,2025-01-21 00:00:00
+862,862,Puducherry,Puducherry,23.9,Partly cloudy,75,21.6,2025-01-21 00:00:00
+863,863,Puducherry,Yanam,23.3,Sunny,66,14.0,2025-01-21 00:00:00
+864,864,Andhra Pradesh,Anantapur,25.4,Sunny,50,16.2,2025-01-20 00:00:00
+865,865,Andhra Pradesh,Chittoor,22.9,Sunny,71,15.1,2025-01-20 00:00:00
+866,866,Andhra Pradesh,East Godavari,23.6,Sunny,65,15.5,2025-01-20 00:00:00
+867,867,Andhra Pradesh,Guntur,23.2,Sunny,72,11.5,2025-01-20 00:00:00
+868,868,Andhra Pradesh,Krishna,23.2,Sunny,76,16.6,2025-01-20 00:00:00
+869,869,Andhra Pradesh,Kurnool,25.5,Sunny,40,13.3,2025-01-20 00:00:00
+870,870,Andhra Pradesh,Prakasam,25.1,Sunny,77,15.5,2025-01-20 00:00:00
+871,871,Andhra Pradesh,Srikakulam,22.1,Sunny,62,15.1,2025-01-20 00:00:00
+872,872,Andhra Pradesh,Visakhapatnam,23.8,Sunny,60,13.3,2025-01-20 00:00:00
+873,873,Andhra Pradesh,Vizianagaram,22.2,Sunny,60,13.7,2025-01-20 00:00:00
+874,874,Arunachal Pradesh,Tawang,0.6,Sunny,23,25.6,2025-01-20 00:00:00
+875,875,Arunachal Pradesh,West Kameng,26.4,Sunny,32,10.8,2025-01-20 00:00:00
+876,876,Arunachal Pradesh,East Kameng,26.4,Sunny,32,10.8,2025-01-20 00:00:00
+877,877,Arunachal Pradesh,Papum Pare,28.0,Sunny,13,11.9,2025-01-20 00:00:00
+878,878,Arunachal Pradesh,Kurung Kumey,-5.2,Heavy snow,90,22.7,2025-01-20 00:00:00
+879,879,Arunachal Pradesh,Kra Daadi,26.6,Partly cloudy,43,31.7,2025-01-20 00:00:00
+880,880,Arunachal Pradesh,Lower Subansiri,-12.8,Overcast,64,19.8,2025-01-20 00:00:00
+881,881,Arunachal Pradesh,Upper Subansiri,21.3,Sunny,75,12.2,2025-01-20 00:00:00
+882,882,Arunachal Pradesh,West Siang,20.0,Sunny,23,12.2,2025-01-20 00:00:00
+883,883,Arunachal Pradesh,East Siang,20.0,Sunny,23,12.2,2025-01-20 00:00:00
+884,884,Assam,Baksa,19.3,Sunny,43,8.3,2025-01-20 00:00:00
+885,885,Assam,Barpeta,19.3,Sunny,45,6.8,2025-01-20 00:00:00
+886,886,Assam,Biswanath,21.7,Sunny,29,15.5,2025-01-20 00:00:00
+887,887,Assam,Bongaigaon,19.2,Sunny,42,7.9,2025-01-20 00:00:00
+888,888,Assam,Cachar,25.1,Sunny,77,15.5,2025-01-20 00:00:00
+889,889,Assam,Charaideo,25.1,Sunny,77,15.5,2025-01-20 00:00:00
+890,890,Assam,Chirang,5.0,Sunny,51,10.4,2025-01-20 00:00:00
+891,891,Assam,Darrang,19.0,Sunny,49,6.1,2025-01-20 00:00:00
+892,892,Assam,Dhemaji,18.0,Sunny,49,7.6,2025-01-20 00:00:00
+893,893,Assam,Dhubri,19.7,Sunny,44,6.1,2025-01-20 00:00:00
+894,894,Bihar,Araria,18.0,Sunny,41,13.3,2025-01-20 00:00:00
+895,895,Bihar,Arwal,17.2,Sunny,45,24.8,2025-01-20 00:00:00
+896,896,Bihar,Aurangabad,22.8,Sunny,28,12.2,2025-01-20 00:00:00
+897,897,Bihar,Banka,17.1,Sunny,42,22.3,2025-01-20 00:00:00
+898,898,Bihar,Begusarai,16.8,Sunny,44,22.3,2025-01-20 00:00:00
+899,899,Bihar,Bhagalpur,17.1,Sunny,42,22.3,2025-01-20 00:00:00
+900,900,Bihar,Bhojpur,18.3,Sunny,33,29.2,2025-01-20 00:00:00
+901,901,Bihar,Buxar,17.5,Sunny,47,24.8,2025-01-20 00:00:00
+902,902,Bihar,Darbhanga,16.7,Sunny,40,19.4,2025-01-20 00:00:00
+903,903,Bihar,East Champaran,23.6,Sunny,65,15.5,2025-01-20 00:00:00
+904,904,Chhattisgarh,Balod,20.7,Sunny,23,10.8,2025-01-20 00:00:00
+905,905,Chhattisgarh,Baloda Bazar,21.5,Sunny,21,11.9,2025-01-20 00:00:00
+906,906,Chhattisgarh,Balrampur,17.4,Sunny,38,27.4,2025-01-20 00:00:00
+907,907,Chhattisgarh,Bastar,20.4,Sunny,26,8.6,2025-01-20 00:00:00
+908,908,Chhattisgarh,Bemetara,21.5,Sunny,21,11.9,2025-01-20 00:00:00
+909,909,Chhattisgarh,Bijapur,25.2,Sunny,26,14.4,2025-01-20 00:00:00
+910,910,Chhattisgarh,Bilaspur,21.2,Sunny,22,9.7,2025-01-20 00:00:00
+911,911,Chhattisgarh,Dantewada,25.1,Sunny,77,15.5,2025-01-20 00:00:00
+912,912,Chhattisgarh,Dhamtari,20.7,Sunny,23,10.8,2025-01-20 00:00:00
+913,913,Chhattisgarh,Durg,21.8,Sunny,23,6.8,2025-01-20 00:00:00
+914,914,Goa,North Goa,26.6,Sunny,58,24.1,2025-01-20 00:00:00
+915,915,Goa,South Goa,26.6,Sunny,58,24.1,2025-01-20 00:00:00
+916,916,Gujarat,Ahmedabad,24.5,Sunny,34,12.6,2025-01-20 00:00:00
+917,917,Gujarat,Amreli,24.6,Sunny,36,13.3,2025-01-20 00:00:00
+918,918,Gujarat,Anand,24.8,Sunny,32,11.9,2025-01-20 00:00:00
+919,919,Gujarat,Aravalli,25.1,Sunny,77,15.5,2025-01-20 00:00:00
+920,920,Gujarat,Banaskantha,22.6,Sunny,41,11.9,2025-01-20 00:00:00
+921,921,Gujarat,Bharuch,25.6,Sunny,31,11.9,2025-01-20 00:00:00
+922,922,Gujarat,Bhavnagar,23.9,Sunny,42,15.1,2025-01-20 00:00:00
+923,923,Gujarat,Botad,24.8,Sunny,36,14.0,2025-01-20 00:00:00
+924,924,Gujarat,Chhota Udaipur,18.8,Sunny,50,13.0,2025-01-20 00:00:00
+925,925,Gujarat,Dahod,23.6,Sunny,32,11.2,2025-01-20 00:00:00
+926,926,Haryana,Ambala,16.4,Overcast,33,22.0,2025-01-20 00:00:00
+927,927,Haryana,Bhiwani,17.4,Overcast,40,14.8,2025-01-20 00:00:00
+928,928,Haryana,Charkhi Dadri,17.4,Overcast,40,14.8,2025-01-20 00:00:00
+929,929,Haryana,Faridabad,18.5,Partly cloudy,43,18.7,2025-01-20 00:00:00
+930,930,Haryana,Fatehabad,17.1,Sunny,29,11.9,2025-01-20 00:00:00
+931,931,Haryana,Gurugram,25.1,Sunny,77,15.5,2025-01-20 00:00:00
+932,932,Haryana,Hisar,17.6,Partly cloudy,33,14.4,2025-01-20 00:00:00
+933,933,Haryana,Jhajjar,17.5,Overcast,43,18.0,2025-01-20 00:00:00
+934,934,Haryana,Jind,17.0,Partly cloudy,34,17.3,2025-01-20 00:00:00
+935,935,Haryana,Kaithal,16.1,Sunny,34,18.4,2025-01-20 00:00:00
+936,936,Himachal Pradesh,Bilaspur,21.2,Sunny,22,9.7,2025-01-20 00:00:00
+937,937,Himachal Pradesh,Chamba,14.1,Sunny,38,10.1,2025-01-20 00:00:00
+938,938,Himachal Pradesh,Hamirpur,18.6,Sunny,60,21.2,2025-01-20 00:00:00
+939,939,Himachal Pradesh,Kangra,14.1,Sunny,38,10.1,2025-01-20 00:00:00
+940,940,Himachal Pradesh,Kinnaur,25.1,Sunny,77,15.5,2025-01-20 00:00:00
+941,941,Himachal Pradesh,Kullu,24.4,Sunny,19,22.3,2025-01-20 00:00:00
+942,942,Himachal Pradesh,Lahaul and Spiti,11.7,Cloudy,36,10.1,2025-01-20 00:00:00
+943,943,Himachal Pradesh,Mandi,15.3,Partly cloudy,38,9.7,2025-01-20 00:00:00
+944,944,Himachal Pradesh,Shimla,11.7,Cloudy,36,10.1,2025-01-20 00:00:00
+945,945,Himachal Pradesh,Sirmaur,19.2,Sunny,45,18.7,2025-01-20 00:00:00
+946,946,Jharkhand,Bokaro,19.4,Sunny,28,20.2,2025-01-20 00:00:00
+947,947,Jharkhand,Chatra,17.6,Sunny,32,24.5,2025-01-20 00:00:00
+948,948,Jharkhand,Deoghar,18.9,Sunny,34,24.1,2025-01-20 00:00:00
+949,949,Jharkhand,Dhanbad,20.7,Sunny,27,17.6,2025-01-20 00:00:00
+950,950,Jharkhand,Dumka,19.1,Sunny,33,22.0,2025-01-20 00:00:00
+951,951,Jharkhand,East Singhbhum,23.6,Sunny,65,15.5,2025-01-20 00:00:00
+952,952,Jharkhand,Garhwa,18.6,Sunny,38,19.8,2025-01-20 00:00:00
+953,953,Jharkhand,Giridih,19.2,Sunny,32,22.7,2025-01-20 00:00:00
+954,954,Jharkhand,Godda,17.1,Sunny,42,22.3,2025-01-20 00:00:00
+955,955,Jharkhand,Gumla,19.3,Sunny,26,19.8,2025-01-20 00:00:00
+956,956,Karnataka,Bagalkot,25.2,Sunny,36,15.1,2025-01-20 00:00:00
+957,957,Karnataka,Ballari,25.1,Sunny,46,14.0,2025-01-20 00:00:00
+958,958,Karnataka,Belagavi,24.1,Sunny,44,15.5,2025-01-20 00:00:00
+959,959,Karnataka,Bengaluru Rural,23.0,Cloudy,61,16.9,2025-01-20 00:00:00
+960,960,Karnataka,Bengaluru Urban,23.0,Cloudy,61,16.9,2025-01-20 00:00:00
+961,961,Karnataka,Bidar,23.2,Sunny,24,13.3,2025-01-20 00:00:00
+962,962,Karnataka,Chamarajanagar,25.1,Sunny,77,15.5,2025-01-20 00:00:00
+963,963,Karnataka,Chikkaballapur,25.1,Sunny,77,15.5,2025-01-20 00:00:00
+964,964,Karnataka,Chikkamagaluru,22.0,Mist,63,13.7,2025-01-20 00:00:00
+965,965,Karnataka,Chitradurga,24.8,Cloudy,51,19.4,2025-01-20 00:00:00
+966,966,Kerala,Alappuzha,26.0,Partly cloudy,78,14.4,2025-01-20 00:00:00
+967,967,Kerala,Ernakulam,26.1,Patchy rain possible,78,15.8,2025-01-20 00:00:00
+968,968,Kerala,Idukki,21.8,Light rain shower,87,11.2,2025-01-20 00:00:00
+969,969,Kerala,Kannur,26.4,Partly cloudy,74,18.4,2025-01-20 00:00:00
+970,970,Kerala,Kasaragod,25.9,Partly cloudy,78,21.6,2025-01-20 00:00:00
+971,971,Kerala,Kollam,25.9,Patchy rain possible,75,15.8,2025-01-20 00:00:00
+972,972,Kerala,Kottayam,25.5,Patchy rain possible,79,12.6,2025-01-20 00:00:00
+973,973,Kerala,Kozhikode,26.2,Patchy light drizzle,77,16.9,2025-01-20 00:00:00
+974,974,Kerala,Malappuram,25.6,Light rain shower,76,8.6,2025-01-20 00:00:00
+975,975,Kerala,Palakkad,26.0,Patchy rain possible,68,19.4,2025-01-20 00:00:00
+976,976,Madhya Pradesh,Alirajpur,23.6,Sunny,32,11.2,2025-01-20 00:00:00
+977,977,Madhya Pradesh,Anuppur,18.7,Sunny,32,14.8,2025-01-20 00:00:00
+978,978,Madhya Pradesh,Ashoknagar,20.2,Sunny,44,10.8,2025-01-20 00:00:00
+979,979,Madhya Pradesh,Balaghat,21.3,Sunny,26,12.6,2025-01-20 00:00:00
+980,980,Madhya Pradesh,Barwani,23.6,Sunny,30,10.4,2025-01-20 00:00:00
+981,981,Madhya Pradesh,Betul,20.3,Sunny,33,9.7,2025-01-20 00:00:00
+982,982,Madhya Pradesh,Bhind,18.5,Sunny,61,20.9,2025-01-20 00:00:00
+983,983,Madhya Pradesh,Bhopal,20.5,Sunny,39,9.4,2025-01-20 00:00:00
+984,984,Madhya Pradesh,Burhanpur,22.7,Sunny,31,9.4,2025-01-20 00:00:00
+985,985,Madhya Pradesh,Chhatarpur,19.9,Sunny,51,17.3,2025-01-20 00:00:00
+986,986,Maharashtra,Ahmednagar,23.5,Sunny,27,13.7,2025-01-20 00:00:00
+987,987,Maharashtra,Akola,23.9,Sunny,28,7.6,2025-01-20 00:00:00
+988,988,Maharashtra,Amravati,23.6,Sunny,28,10.8,2025-01-20 00:00:00
+989,989,Maharashtra,Aurangabad,22.8,Sunny,28,12.2,2025-01-20 00:00:00
+990,990,Maharashtra,Beed,13.8,Sunny,37,7.6,2025-01-20 00:00:00
+991,991,Maharashtra,Bhandara,21.8,Sunny,24,12.2,2025-01-20 00:00:00
+992,992,Maharashtra,Buldhana,25.1,Sunny,77,15.5,2025-01-20 00:00:00
+993,993,Maharashtra,Chandrapur,22.7,Sunny,24,7.6,2025-01-20 00:00:00
+994,994,Maharashtra,Dhule,25.1,Sunny,26,12.6,2025-01-20 00:00:00
+995,995,Maharashtra,Gadchiroli,25.1,Sunny,77,15.5,2025-01-20 00:00:00
+996,996,Manipur,Bishnupur,21.9,Sunny,26,16.6,2025-01-20 00:00:00
+997,997,Manipur,Churachandpur,14.0,Sunny,48,9.4,2025-01-20 00:00:00
+998,998,Manipur,Imphal East,14.0,Sunny,48,9.4,2025-01-20 00:00:00
+999,999,Manipur,Imphal West,14.0,Sunny,48,9.4,2025-01-20 00:00:00
+1000,1000,Manipur,Jiribam,25.1,Sunny,77,15.5,2025-01-20 00:00:00
+1001,1001,Manipur,Kakching,14.0,Sunny,48,9.4,2025-01-20 00:00:00
+1002,1002,Manipur,Kamjong,25.1,Sunny,77,15.5,2025-01-20 00:00:00
+1003,1003,Manipur,Kangpokpi,14.0,Sunny,48,9.4,2025-01-20 00:00:00
+1004,1004,Manipur,Noney,25.1,Sunny,77,15.5,2025-01-20 00:00:00
+1005,1005,Manipur,Pherzawl,25.1,Sunny,77,15.5,2025-01-20 00:00:00
+1006,1006,Meghalaya,East Garo Hills,22.9,Light rain shower,91,9.4,2025-01-20 00:00:00
+1007,1007,Meghalaya,East Khasi Hills,7.1,Overcast,65,21.2,2025-01-20 00:00:00
+1008,1008,Meghalaya,Jaintia Hills,22.4,Mist,61,16.6,2025-01-20 00:00:00
+1009,1009,Meghalaya,Ri Bhoi,17.9,Sunny,21,20.2,2025-01-20 00:00:00
+1010,1010,Meghalaya,South Garo Hills,27.3,Partly cloudy,16,15.5,2025-01-20 00:00:00
+1011,1011,Meghalaya,South Khasi Hills,7.1,Overcast,65,21.2,2025-01-20 00:00:00
+1012,1012,Meghalaya,West Garo Hills,13.6,Sunny,40,11.2,2025-01-20 00:00:00
+1013,1013,Meghalaya,West Khasi Hills,7.1,Overcast,65,21.2,2025-01-20 00:00:00
+1014,1014,Mizoram,Aizawl,17.2,Sunny,49,5.8,2025-01-20 00:00:00
+1015,1015,Mizoram,Champhai,25.1,Sunny,77,15.5,2025-01-20 00:00:00
+1016,1016,Mizoram,Hnahthial,16.8,Sunny,28,6.5,2025-01-20 00:00:00
+1017,1017,Mizoram,Kolasib,25.1,Sunny,77,15.5,2025-01-20 00:00:00
+1018,1018,Mizoram,Lawngtlai,18.3,Sunny,42,7.2,2025-01-20 00:00:00
+1019,1019,Mizoram,Lunglei,18.3,Sunny,42,7.2,2025-01-20 00:00:00
+1020,1020,Mizoram,Mamit,17.2,Sunny,49,5.8,2025-01-20 00:00:00
+1021,1021,Mizoram,Saitual,17.2,Sunny,49,5.8,2025-01-20 00:00:00
+1022,1022,Mizoram,Serchhip,18.3,Sunny,42,7.2,2025-01-20 00:00:00
+1023,1023,Nagaland,Dimapur,16.9,Sunny,50,6.5,2025-01-20 00:00:00
+1024,1024,Nagaland,Kiphire,25.1,Sunny,77,15.5,2025-01-20 00:00:00
+1025,1025,Nagaland,Kohima,13.0,Sunny,49,7.6,2025-01-20 00:00:00
+1026,1026,Nagaland,Longleng,25.1,Sunny,77,15.5,2025-01-20 00:00:00
+1027,1027,Nagaland,Mokokchung,19.0,Sunny,49,7.9,2025-01-20 00:00:00
+1028,1028,Nagaland,Mon,19.0,Sunny,49,6.8,2025-01-20 00:00:00
+1029,1029,Nagaland,Peren,0.9,Patchy rain possible,84,10.4,2025-01-20 00:00:00
+1030,1030,Nagaland,Phek,13.0,Sunny,49,7.6,2025-01-20 00:00:00
+1031,1031,Nagaland,Tuensang,19.0,Sunny,49,7.9,2025-01-20 00:00:00
+1032,1032,Nagaland,Zunheboto,13.0,Sunny,49,7.6,2025-01-20 00:00:00
+1033,1033,Odisha,Angul,21.5,Sunny,27,8.3,2025-01-20 00:00:00
+1034,1034,Odisha,Balangir,21.2,Sunny,26,10.4,2025-01-20 00:00:00
+1035,1035,Odisha,Bargarh,22.0,Sunny,22,8.6,2025-01-20 00:00:00
+1036,1036,Odisha,Bhadrak,21.9,Sunny,39,10.8,2025-01-20 00:00:00
+1037,1037,Odisha,Boudh,25.1,Sunny,77,15.5,2025-01-20 00:00:00
+1038,1038,Odisha,Cuttack,21.9,Sunny,51,12.6,2025-01-20 00:00:00
+1039,1039,Odisha,Deogarh,20.0,Sunny,27,10.4,2025-01-20 00:00:00
+1040,1040,Odisha,Dhenkanal,21.9,Sunny,51,12.6,2025-01-20 00:00:00
+1041,1041,Odisha,Gajapati,25.1,Sunny,77,15.5,2025-01-20 00:00:00
+1042,1042,Odisha,Ganjam,21.4,Sunny,54,13.3,2025-01-20 00:00:00
+1043,1043,Punjab,Amritsar,14.7,Sunny,29,12.2,2025-01-20 00:00:00
+1044,1044,Punjab,Barnala,15.6,Overcast,30,12.2,2025-01-20 00:00:00
+1045,1045,Punjab,Bathinda,25.1,Sunny,77,15.5,2025-01-20 00:00:00
+1046,1046,Punjab,Faridkot,15.6,Sunny,27,9.7,2025-01-20 00:00:00
+1047,1047,Punjab,Fatehgarh Sahib,15.4,Overcast,32,14.0,2025-01-20 00:00:00
+1048,1048,Punjab,Fazilka,16.2,Sunny,24,10.1,2025-01-20 00:00:00
+1049,1049,Punjab,Ferozepur,15.6,Sunny,27,11.2,2025-01-20 00:00:00
+1050,1050,Punjab,Gurdaspur,14.3,Sunny,35,10.8,2025-01-20 00:00:00
+1051,1051,Punjab,Hoshiarpur,15.1,Partly cloudy,40,15.8,2025-01-20 00:00:00
+1052,1052,Punjab,Jalandhar,14.7,Partly cloudy,35,14.4,2025-01-20 00:00:00
+1053,1053,Rajasthan,Ajmer,20.2,Sunny,48,10.4,2025-01-20 00:00:00
+1054,1054,Rajasthan,Alwar,18.1,Sunny,60,14.4,2025-01-20 00:00:00
+1055,1055,Rajasthan,Banswara,23.4,Sunny,36,9.4,2025-01-20 00:00:00
+1056,1056,Rajasthan,Baran,21.0,Sunny,48,9.4,2025-01-20 00:00:00
+1057,1057,Rajasthan,Barmer,21.3,Sunny,34,15.1,2025-01-20 00:00:00
+1058,1058,Rajasthan,Bhilwara,20.5,Sunny,44,9.0,2025-01-20 00:00:00
+1059,1059,Rajasthan,Bikaner,19.7,Sunny,40,15.8,2025-01-20 00:00:00
+1060,1060,Rajasthan,Bundi,20.4,Sunny,52,10.1,2025-01-20 00:00:00
+1061,1061,Rajasthan,Chittorgarh,25.1,Sunny,77,15.5,2025-01-20 00:00:00
+1062,1062,Rajasthan,Churu,19.2,Partly cloudy,41,12.6,2025-01-20 00:00:00
+1063,1063,Sikkim,East Sikkim,7.3,Sunny,48,10.8,2025-01-20 00:00:00
+1064,1064,Sikkim,North Sikkim,7.3,Sunny,48,10.8,2025-01-20 00:00:00
+1065,1065,Sikkim,South Sikkim,7.3,Sunny,48,10.8,2025-01-20 00:00:00
+1066,1066,Sikkim,West Sikkim,7.3,Sunny,48,10.8,2025-01-20 00:00:00
+1067,1067,Tamil Nadu,Ariyalur,24.2,Mist,80,22.0,2025-01-20 00:00:00
+1068,1068,Tamil Nadu,Chengalpattu,24.1,Partly cloudy,74,21.2,2025-01-20 00:00:00
+1069,1069,Tamil Nadu,Chennai,24.8,Partly cloudy,73,20.9,2025-01-20 00:00:00
+1070,1070,Tamil Nadu,Coimbatore,24.7,Patchy rain possible,72,14.0,2025-01-20 00:00:00
+1071,1071,Tamil Nadu,Cuddalore,24.7,Partly cloudy,78,28.4,2025-01-20 00:00:00
+1072,1072,Tamil Nadu,Dharmapuri,23.2,Patchy rain possible,73,15.5,2025-01-20 00:00:00
+1073,1073,Tamil Nadu,Dindigul,24.0,Patchy rain possible,77,13.0,2025-01-20 00:00:00
+1074,1074,Tamil Nadu,Erode,25.8,Patchy rain possible,68,14.8,2025-01-20 00:00:00
+1075,1075,Tamil Nadu,Kallakurichi,25.1,Sunny,77,15.5,2025-01-20 00:00:00
+1076,1076,Tamil Nadu,Kanchipuram,23.8,Sunny,74,19.4,2025-01-20 00:00:00
+1077,1077,Telangana,Adilabad,22.5,Sunny,24,11.2,2025-01-20 00:00:00
+1078,1078,Telangana,Hyderabad,23.4,Sunny,24,11.2,2025-01-20 00:00:00
+1079,1079,Telangana,Jagtial,23.0,Sunny,25,7.9,2025-01-20 00:00:00
+1080,1080,Telangana,Jangaon,23.3,Sunny,25,12.2,2025-01-20 00:00:00
+1081,1081,Telangana,Jayashankar Bhupalapally,25.1,Sunny,77,15.5,2025-01-20 00:00:00
+1082,1082,Telangana,Jogulamba Gadwal,25.0,Sunny,31,12.2,2025-01-20 00:00:00
+1083,1083,Telangana,Kamareddy,25.1,Sunny,77,15.5,2025-01-20 00:00:00
+1084,1084,Telangana,Karimnagar,22.7,Sunny,25,11.9,2025-01-20 00:00:00
+1085,1085,Telangana,Khammam,23.8,Mist,56,10.4,2025-01-20 00:00:00
+1086,1086,Telangana,Komaram Bheem Asifabad,22.4,Sunny,24,11.2,2025-01-20 00:00:00
+1087,1087,Tripura,Dhalai,18.8,Sunny,46,9.7,2025-01-20 00:00:00
+1088,1088,Tripura,Khowai,19.0,Sunny,45,9.4,2025-01-20 00:00:00
+1089,1089,Tripura,North Tripura,19.6,Sunny,42,11.5,2025-01-20 00:00:00
+1090,1090,Tripura,Sepahijala,25.1,Sunny,77,15.5,2025-01-20 00:00:00
+1091,1091,Tripura,South Tripura,19.6,Sunny,42,11.5,2025-01-20 00:00:00
+1092,1092,Tripura,Unakoti,25.1,Sunny,77,15.5,2025-01-20 00:00:00
+1093,1093,Tripura,West Tripura,19.6,Sunny,42,11.5,2025-01-20 00:00:00
+1094,1094,Uttar Pradesh,Agra,18.1,Sunny,59,19.1,2025-01-20 00:00:00
+1095,1095,Uttar Pradesh,Aligarh,17.5,Sunny,51,23.8,2025-01-20 00:00:00
+1096,1096,Uttar Pradesh,Allahabad,19.1,Sunny,51,22.3,2025-01-20 00:00:00
+1097,1097,Uttar Pradesh,Ambedkar Nagar,17.6,Sunny,30,14.8,2025-01-20 00:00:00
+1098,1098,Uttar Pradesh,Amethi,18.1,Sunny,38,28.1,2025-01-20 00:00:00
+1099,1099,Uttar Pradesh,Amroha,17.9,Overcast,35,27.7,2025-01-20 00:00:00
+1100,1100,Uttar Pradesh,Auraiya,18.5,Sunny,59,22.3,2025-01-20 00:00:00
+1101,1101,Uttar Pradesh,Azamgarh,17.7,Sunny,48,25.6,2025-01-20 00:00:00
+1102,1102,Uttar Pradesh,Baghpat,16.8,Overcast,40,21.6,2025-01-20 00:00:00
+1103,1103,Uttar Pradesh,Bahraich,18.0,Sunny,39,27.4,2025-01-20 00:00:00
+1104,1104,Uttarakhand,Almora,13.9,Overcast,26,8.6,2025-01-20 00:00:00
+1105,1105,Uttarakhand,Bageshwar,13.9,Overcast,26,8.6,2025-01-20 00:00:00
+1106,1106,Uttarakhand,Chamoli,0.3,Light freezing rain,42,11.5,2025-01-20 00:00:00
+1107,1107,Uttarakhand,Champawat,13.9,Overcast,26,8.6,2025-01-20 00:00:00
+1108,1108,Uttarakhand,Dehradun,15.2,Overcast,35,10.8,2025-01-20 00:00:00
+1109,1109,Uttarakhand,Haridwar,17.5,Sunny,37,14.8,2025-01-20 00:00:00
+1110,1110,Uttarakhand,Nainital,25.1,Sunny,77,15.5,2025-01-20 00:00:00
+1111,1111,Uttarakhand,Pauri Garhwal,17.1,Overcast,34,24.1,2025-01-20 00:00:00
+1112,1112,Uttarakhand,Pithoragarh,14.5,Overcast,26,9.0,2025-01-20 00:00:00
+1113,1113,Uttarakhand,Rudraprayag,0.3,Light freezing rain,42,11.5,2025-01-20 00:00:00
+1114,1114,West Bengal,Alipurduar,25.1,Sunny,77,15.5,2025-01-20 00:00:00
+1115,1115,West Bengal,Bankura,20.7,Sunny,24,14.4,2025-01-20 00:00:00
+1116,1116,West Bengal,Birbhum,25.1,Sunny,77,15.5,2025-01-20 00:00:00
+1117,1117,West Bengal,Burdwan,20.3,Sunny,29,18.4,2025-01-20 00:00:00
+1118,1118,West Bengal,Cooch Behar,19.7,Sunny,42,7.2,2025-01-20 00:00:00
+1119,1119,West Bengal,Dakshin Dinajpur,19.0,Sunny,39,13.0,2025-01-20 00:00:00
+1120,1120,West Bengal,Hooghly,20.6,Sunny,29,16.6,2025-01-20 00:00:00
+1121,1121,West Bengal,Howrah,21.7,Sunny,26,16.2,2025-01-20 00:00:00
+1122,1122,West Bengal,Jalpaiguri,19.5,Sunny,43,8.3,2025-01-20 00:00:00
+1123,1123,West Bengal,Jhargram,21.4,Sunny,22,13.7,2025-01-20 00:00:00
+1124,1124,Andaman and Nicobar Islands,Nicobar,27.7,Partly cloudy,70,21.6,2025-01-20 00:00:00
+1125,1125,Andaman and Nicobar Islands,North and Middle Andaman,27.7,Partly cloudy,70,21.6,2025-01-20 00:00:00
+1126,1126,Andaman and Nicobar Islands,South Andaman,27.7,Partly cloudy,70,21.6,2025-01-20 00:00:00
+1127,1127,Chandigarh,Chandigarh,16.3,Overcast,35,19.8,2025-01-20 00:00:00
+1128,1128,Dadra and Nagar Haveli and Daman and Diu,Daman,24.5,Sunny,42,16.9,2025-01-20 00:00:00
+1129,1129,Dadra and Nagar Haveli and Daman and Diu,Diu,23.2,Sunny,52,13.0,2025-01-20 00:00:00
+1130,1130,Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,24.5,Sunny,42,16.9,2025-01-20 00:00:00
+1131,1131,Lakshadweep,Aminidivi,25.1,Sunny,77,15.5,2025-01-20 00:00:00
+1132,1132,Lakshadweep,Androth,25.1,Sunny,77,15.5,2025-01-20 00:00:00
+1133,1133,Lakshadweep,Bithra,25.1,Sunny,77,15.5,2025-01-20 00:00:00
+1134,1134,Lakshadweep,Kalapeni,25.1,Sunny,77,15.5,2025-01-20 00:00:00
+1135,1135,Lakshadweep,Kavaratti,28.0,Patchy rain possible,71,15.8,2025-01-20 00:00:00
+1136,1136,Lakshadweep,Minicoy,25.1,Sunny,77,15.5,2025-01-20 00:00:00
+1137,1137,Lakshadweep,Suheli,25.1,Sunny,77,15.5,2025-01-20 00:00:00
+1138,1138,Delhi,Central Delhi,18.1,Cloudy,40,18.0,2025-01-20 00:00:00
+1139,1139,Delhi,East Delhi,18.1,Cloudy,40,18.0,2025-01-20 00:00:00
+1140,1140,Delhi,New Delhi,18.6,Partly cloudy,40,17.6,2025-01-20 00:00:00
+1141,1141,Delhi,North Delhi,18.1,Cloudy,40,18.0,2025-01-20 00:00:00
+1142,1142,Delhi,North East Delhi,18.1,Cloudy,40,18.0,2025-01-20 00:00:00
+1143,1143,Delhi,North West Delhi,18.1,Cloudy,40,18.0,2025-01-20 00:00:00
+1144,1144,Delhi,Shahdara,18.8,Cloudy,39,18.4,2025-01-20 00:00:00
+1145,1145,Delhi,South Delhi,18.1,Cloudy,40,18.0,2025-01-20 00:00:00
+1146,1146,Delhi,South East Delhi,18.1,Cloudy,40,18.0,2025-01-20 00:00:00
+1147,1147,Delhi,South West Delhi,18.1,Cloudy,40,18.0,2025-01-20 00:00:00
+1148,1148,Puducherry,Karaikal,24.9,Light rain shower,81,25.9,2025-01-20 00:00:00
+1149,1149,Puducherry,Mahe,26.2,Partly cloudy,74,18.4,2025-01-20 00:00:00
+1150,1150,Puducherry,Puducherry,24.8,Sunny,76,26.3,2025-01-20 00:00:00
+1151,1151,Puducherry,Yanam,23.6,Sunny,65,15.5,2025-01-20 00:00:00
